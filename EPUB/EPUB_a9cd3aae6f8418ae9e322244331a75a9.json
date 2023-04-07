@@ -1,0 +1,126 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ke-trom-sach_19647.html",
+    "title" : "Kẻ Trộm Sách",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Markus Zusak",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 47784,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_a9cd3aae6f8418ae9e322244331a75a9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_a9cd3aae6f8418ae9e322244331a75a9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ke-tro-9/ke-tro%20%281%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6898,
+    "title" : "ke-tro (1)"
+  }, {
+    "href" : "https://archive.org/download/ke-tro-9/ke-tro%20%282%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3939,
+    "title" : "ke-tro (2)"
+  }, {
+    "href" : "https://archive.org/download/ke-tro-9/ke-tro%20%283%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4382,
+    "title" : "ke-tro (3)"
+  }, {
+    "href" : "https://archive.org/download/ke-tro-9/ke-tro%20%284%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5178,
+    "title" : "ke-tro (4)"
+  }, {
+    "href" : "https://archive.org/download/ke-tro-9/ke-tro%20%285%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6139,
+    "title" : "ke-tro (5)"
+  }, {
+    "href" : "https://archive.org/download/ke-tro-9/ke-tro%20%286%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4157,
+    "title" : "ke-tro (6)"
+  }, {
+    "href" : "https://archive.org/download/ke-tro-9/ke-tro%20%287%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5034,
+    "title" : "ke-tro (7)"
+  }, {
+    "href" : "https://archive.org/download/ke-tro-9/ke-tro%20%288%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4575,
+    "title" : "ke-tro (8)"
+  }, {
+    "href" : "https://archive.org/download/ke-tro-9/ke-tro%20%289%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7482,
+    "title" : "ke-tro (9)"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ke-tro-9/ke-tro%20%281%29.mp3",
+    "title" : "ke-tro (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-tro-9/ke-tro%20%282%29.mp3",
+    "title" : "ke-tro (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-tro-9/ke-tro%20%283%29.mp3",
+    "title" : "ke-tro (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-tro-9/ke-tro%20%284%29.mp3",
+    "title" : "ke-tro (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-tro-9/ke-tro%20%285%29.mp3",
+    "title" : "ke-tro (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-tro-9/ke-tro%20%286%29.mp3",
+    "title" : "ke-tro (6)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-tro-9/ke-tro%20%287%29.mp3",
+    "title" : "ke-tro (7)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-tro-9/ke-tro%20%288%29.mp3",
+    "title" : "ke-tro (8)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-tro-9/ke-tro%20%289%29.mp3",
+    "title" : "ke-tro (9)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

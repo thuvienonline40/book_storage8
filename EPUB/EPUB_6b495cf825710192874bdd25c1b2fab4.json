@@ -1,0 +1,106 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/suc-manh-cua-su-khich-le_19840.html",
+    "title" : "Sức Mạnh Của Sự Khích Lệ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ken Blanchard",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 10001,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_6b495cf825710192874bdd25c1b2fab4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_6b495cf825710192874bdd25c1b2fab4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/03Chuong2SuThongThaiTuNguoiPhuNu/01-loi_gioi_thieu_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 309,
+    "title" : "Lời giới thiệu"
+  }, {
+    "href" : "https://archive.org/download/03Chuong2SuThongThaiTuNguoiPhuNu/02-chuong_1_cuoc_gap_go_tinh_co.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1882,
+    "title" : "Chương một: Cuộc gặp gỡ tình cờ"
+  }, {
+    "href" : "https://archive.org/download/03Chuong2SuThongThaiTuNguoiPhuNu/03-chuong_2_su_thong_thai_tu_nguoi_phu_nu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2099,
+    "title" : "Chương hai: Sự thông thái từ người phụ nữ"
+  }, {
+    "href" : "https://archive.org/download/03Chuong2SuThongThaiTuNguoiPhuNu/04-chuong_3_cuoc_tro_chuyen_thu_vi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1502,
+    "title" : "Chương ba: Một cuộc trò chuyện thú vị"
+  }, {
+    "href" : "https://archive.org/download/03Chuong2SuThongThaiTuNguoiPhuNu/05-chuong_4_ap_dung_hieu_qua_o_cty.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1946,
+    "title" : "Chương bốn: Áp dụng hiệu quả ở công ty"
+  }, {
+    "href" : "https://archive.org/download/03Chuong2SuThongThaiTuNguoiPhuNu/06-chuong_5_ap_dung_tich_cuc_trong_gia_dinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 767,
+    "title" : "Chương năm: Ứng dụng tích cực trong gia đình"
+  }, {
+    "href" : "https://archive.org/download/03Chuong2SuThongThaiTuNguoiPhuNu/07-chuong_6_bai_hoc_lon_lao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1496,
+    "title" : "Chương sáu: Bài học lớn lao từ một điều bình dị"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/03Chuong2SuThongThaiTuNguoiPhuNu/01-loi_gioi_thieu_2.mp3",
+    "title" : "Lời giới thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/03Chuong2SuThongThaiTuNguoiPhuNu/02-chuong_1_cuoc_gap_go_tinh_co.mp3",
+    "title" : "Chương một: Cuộc gặp gỡ tình cờ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/03Chuong2SuThongThaiTuNguoiPhuNu/03-chuong_2_su_thong_thai_tu_nguoi_phu_nu.mp3",
+    "title" : "Chương hai: Sự thông thái từ người phụ nữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/03Chuong2SuThongThaiTuNguoiPhuNu/04-chuong_3_cuoc_tro_chuyen_thu_vi.mp3",
+    "title" : "Chương ba: Một cuộc trò chuyện thú vị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/03Chuong2SuThongThaiTuNguoiPhuNu/05-chuong_4_ap_dung_hieu_qua_o_cty.mp3",
+    "title" : "Chương bốn: Áp dụng hiệu quả ở công ty",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/03Chuong2SuThongThaiTuNguoiPhuNu/06-chuong_5_ap_dung_tich_cuc_trong_gia_dinh.mp3",
+    "title" : "Chương năm: Ứng dụng tích cực trong gia đình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/03Chuong2SuThongThaiTuNguoiPhuNu/07-chuong_6_bai_hoc_lon_lao.mp3",
+    "title" : "Chương sáu: Bài học lớn lao từ một điều bình dị",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

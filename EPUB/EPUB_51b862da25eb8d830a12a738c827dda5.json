@@ -1,0 +1,96 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nguoi-me-tot-hon-la-nguoi-thay-tot_19549.html",
+    "title" : "Người Mẹ Tốt Hơn Là Người Thầy Tốt",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Doãn Kiến Lợi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 25908,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_51b862da25eb8d830a12a738c827dda5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_51b862da25eb8d830a12a738c827dda5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nguoi-me-6/nguoi-me-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3746,
+    "title" : "nguoi-me-1"
+  }, {
+    "href" : "https://archive.org/download/nguoi-me-6/nguoi-me-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2649,
+    "title" : "nguoi-me-2"
+  }, {
+    "href" : "https://archive.org/download/nguoi-me-6/nguoi-me-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4233,
+    "title" : "nguoi-me-3"
+  }, {
+    "href" : "https://archive.org/download/nguoi-me-6/nguoi-me-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4922,
+    "title" : "nguoi-me-4"
+  }, {
+    "href" : "https://archive.org/download/nguoi-me-6/nguoi-me-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5133,
+    "title" : "nguoi-me-5"
+  }, {
+    "href" : "https://archive.org/download/nguoi-me-6/nguoi-me-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5225,
+    "title" : "nguoi-me-6"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nguoi-me-6/nguoi-me-1.mp3",
+    "title" : "nguoi-me-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-me-6/nguoi-me-2.mp3",
+    "title" : "nguoi-me-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-me-6/nguoi-me-3.mp3",
+    "title" : "nguoi-me-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-me-6/nguoi-me-4.mp3",
+    "title" : "nguoi-me-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-me-6/nguoi-me-5.mp3",
+    "title" : "nguoi-me-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-me-6/nguoi-me-6.mp3",
+    "title" : "nguoi-me-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

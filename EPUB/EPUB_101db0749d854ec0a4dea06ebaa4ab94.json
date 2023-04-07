@@ -1,0 +1,296 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ban-thao-bang-da_19599.html",
+    "title" : "Bản Thảo Bằng Đá",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Luis García Jambrina",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 28782,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_101db0749d854ec0a4dea06ebaa4ab94.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_101db0749d854ec0a4dea06ebaa4ab94.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL001%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20V%C4%83n%20%C3%81n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 555,
+    "title" : "SNNL001 ― Bản Thảo Bằng Đá ― Văn Án"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL002%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 838,
+    "title" : "SNNL002 ― Bản Thảo Bằng Đá ― Chương 1"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL003%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 946,
+    "title" : "SNNL003 ― Bản Thảo Bằng Đá ― Chương 2"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL004%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 425,
+    "title" : "SNNL004 ― Bản Thảo Bằng Đá ― Chương 3"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL005%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 842,
+    "title" : "SNNL005 ― Bản Thảo Bằng Đá ― Chương 4"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL006%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 890,
+    "title" : "SNNL006 ― Bản Thảo Bằng Đá ― Chương 5"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL007%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 531,
+    "title" : "SNNL007 ― Bản Thảo Bằng Đá ― Chương 6"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL008%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%207.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1492,
+    "title" : "SNNL008 ― Bản Thảo Bằng Đá ― Chương 7"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL009%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%208.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1103,
+    "title" : "SNNL009 ― Bản Thảo Bằng Đá ― Chương 8"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL010%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%209.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1087,
+    "title" : "SNNL010 ― Bản Thảo Bằng Đá ― Chương 9"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL011%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2010.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1337,
+    "title" : "SNNL011 ― Bản Thảo Bằng Đá ― Chương 10"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL012%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2011.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1087,
+    "title" : "SNNL012 ― Bản Thảo Bằng Đá ― Chương 11"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL013%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2012.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 982,
+    "title" : "SNNL013 ― Bản Thảo Bằng Đá ― Chương 12"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL014%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2013.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1119,
+    "title" : "SNNL014 ― Bản Thảo Bằng Đá ― Chương 13"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL015%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2014.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1060,
+    "title" : "SNNL015 ― Bản Thảo Bằng Đá ― Chương 14"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL016%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2015.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 739,
+    "title" : "SNNL016 ― Bản Thảo Bằng Đá ― Chương 15"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL017%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2016.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1417,
+    "title" : "SNNL017 ― Bản Thảo Bằng Đá ― Chương 16"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL018%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2017.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1669,
+    "title" : "SNNL018 ― Bản Thảo Bằng Đá ― Chương 17"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL019%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1884,
+    "title" : "SNNL019 ― Bản Thảo Bằng Đá ― Chương 18"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL020%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2019.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1530,
+    "title" : "SNNL020 ― Bản Thảo Bằng Đá ― Chương 19"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL021%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2020.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 940,
+    "title" : "SNNL021 ― Bản Thảo Bằng Đá ― Chương 20"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL022%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2021.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1691,
+    "title" : "SNNL022 ― Bản Thảo Bằng Đá ― Chương 21"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL023%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2022.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1065,
+    "title" : "SNNL023 ― Bản Thảo Bằng Đá ― Chương 22"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL024%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2023.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1358,
+    "title" : "SNNL024 ― Bản Thảo Bằng Đá ― Chương 23"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL025%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2024.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1120,
+    "title" : "SNNL025 ― Bản Thảo Bằng Đá ― Chương 24"
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL026%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20K%E1%BA%BFt.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1075,
+    "title" : "SNNL026 ― Bản Thảo Bằng Đá ― Chương Kết"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL001%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20V%C4%83n%20%C3%81n.mp3",
+    "title" : "SNNL001 ― Bản Thảo Bằng Đá ― Văn Án",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL002%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%201.mp3",
+    "title" : "SNNL002 ― Bản Thảo Bằng Đá ― Chương 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL003%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%202.mp3",
+    "title" : "SNNL003 ― Bản Thảo Bằng Đá ― Chương 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL004%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%203.mp3",
+    "title" : "SNNL004 ― Bản Thảo Bằng Đá ― Chương 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL005%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%204.mp3",
+    "title" : "SNNL005 ― Bản Thảo Bằng Đá ― Chương 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL006%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%205.mp3",
+    "title" : "SNNL006 ― Bản Thảo Bằng Đá ― Chương 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL007%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%206.mp3",
+    "title" : "SNNL007 ― Bản Thảo Bằng Đá ― Chương 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL008%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%207.mp3",
+    "title" : "SNNL008 ― Bản Thảo Bằng Đá ― Chương 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL009%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%208.mp3",
+    "title" : "SNNL009 ― Bản Thảo Bằng Đá ― Chương 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL010%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%209.mp3",
+    "title" : "SNNL010 ― Bản Thảo Bằng Đá ― Chương 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL011%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2010.mp3",
+    "title" : "SNNL011 ― Bản Thảo Bằng Đá ― Chương 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL012%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2011.mp3",
+    "title" : "SNNL012 ― Bản Thảo Bằng Đá ― Chương 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL013%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2012.mp3",
+    "title" : "SNNL013 ― Bản Thảo Bằng Đá ― Chương 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL014%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2013.mp3",
+    "title" : "SNNL014 ― Bản Thảo Bằng Đá ― Chương 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL015%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2014.mp3",
+    "title" : "SNNL015 ― Bản Thảo Bằng Đá ― Chương 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL016%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2015.mp3",
+    "title" : "SNNL016 ― Bản Thảo Bằng Đá ― Chương 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL017%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2016.mp3",
+    "title" : "SNNL017 ― Bản Thảo Bằng Đá ― Chương 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL018%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2017.mp3",
+    "title" : "SNNL018 ― Bản Thảo Bằng Đá ― Chương 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL019%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2018.mp3",
+    "title" : "SNNL019 ― Bản Thảo Bằng Đá ― Chương 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL020%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2019.mp3",
+    "title" : "SNNL020 ― Bản Thảo Bằng Đá ― Chương 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL021%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2020.mp3",
+    "title" : "SNNL021 ― Bản Thảo Bằng Đá ― Chương 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL022%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2021.mp3",
+    "title" : "SNNL022 ― Bản Thảo Bằng Đá ― Chương 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL023%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2022.mp3",
+    "title" : "SNNL023 ― Bản Thảo Bằng Đá ― Chương 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL024%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2023.mp3",
+    "title" : "SNNL024 ― Bản Thảo Bằng Đá ― Chương 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL025%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%2024.mp3",
+    "title" : "SNNL025 ― Bản Thảo Bằng Đá ― Chương 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mmsachnoi-202331-Ban-Thao-Bang-Da/SNNL026%20%E2%80%95%20B%E1%BA%A3n%20Th%E1%BA%A3o%20B%E1%BA%B1ng%20%C4%90%C3%A1%20%E2%80%95%20Ch%C6%B0%C6%A1ng%20K%E1%BA%BFt.mp3",
+    "title" : "SNNL026 ― Bản Thảo Bằng Đá ― Chương Kết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

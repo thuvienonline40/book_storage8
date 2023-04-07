@@ -1,0 +1,196 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nguoi-viet-pham-chat-thoi-hu-tat-xau_19710.html",
+    "title" : "Người Việt Phẩm Chất & Thói Hư Tật Xấu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đức Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 40085,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_e0732f64cb620afd198fb53a5e00fdd5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_e0732f64cb620afd198fb53a5e00fdd5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2554,
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 01"
+  }, {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2826,
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 02"
+  }, {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2531,
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 03"
+  }, {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2438,
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 04"
+  }, {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2715,
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 05"
+  }, {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2025,
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 06"
+  }, {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2677,
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 07"
+  }, {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2764,
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 08"
+  }, {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2205,
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 09"
+  }, {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1380,
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 10"
+  }, {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2723,
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 11"
+  }, {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2211,
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 12"
+  }, {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2576,
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 13"
+  }, {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2565,
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 14"
+  }, {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2953,
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 15"
+  }, {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2942,
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 16"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_01.mp3",
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_02.mp3",
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_03.mp3",
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_04.mp3",
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_05.mp3",
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_06.mp3",
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_07.mp3",
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_08.mp3",
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_09.mp3",
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_10.mp3",
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_11.mp3",
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_12.mp3",
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_13.mp3",
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_14.mp3",
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_15.mp3",
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-viet-pham-chat-va-thoi-hu-tat-xau.sna/NGUOI_VIET_PHAM_CHAT_THOI_HU_TAT_XAU_16.mp3",
+    "title" : "NGUOI VIET PHAM CHAT THOI HU TAT XAU 16",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,96 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/gieo-trong-hanh-phuc_19264.html",
+    "title" : "Gieo Trồng Hạnh Phúc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 22001,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_76a7992e9efc86120208af8debfa46a9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_76a7992e9efc86120208af8debfa46a9.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/gieo-trong-1/gieo-trong-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "gieo-trong-1"
+  }, {
+    "href" : "https://archive.org/download/gieo-trong-1/gieo-trong-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "gieo-trong-2"
+  }, {
+    "href" : "https://archive.org/download/gieo-trong-1/gieo-trong-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "gieo-trong-3"
+  }, {
+    "href" : "https://archive.org/download/gieo-trong-1/gieo-trong-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "gieo-trong-4"
+  }, {
+    "href" : "https://archive.org/download/gieo-trong-1/gieo-trong-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3900,
+    "title" : "gieo-trong-5"
+  }, {
+    "href" : "https://archive.org/download/gieo-trong-1/gieo-trong-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2501,
+    "title" : "gieo-trong-6"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/gieo-trong-1/gieo-trong-1.mp3",
+    "title" : "gieo-trong-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gieo-trong-1/gieo-trong-2.mp3",
+    "title" : "gieo-trong-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gieo-trong-1/gieo-trong-3.mp3",
+    "title" : "gieo-trong-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gieo-trong-1/gieo-trong-4.mp3",
+    "title" : "gieo-trong-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gieo-trong-1/gieo-trong-5.mp3",
+    "title" : "gieo-trong-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gieo-trong-1/gieo-trong-6.mp3",
+    "title" : "gieo-trong-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

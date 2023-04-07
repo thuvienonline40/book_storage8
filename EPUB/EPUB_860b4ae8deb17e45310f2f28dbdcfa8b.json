@@ -1,0 +1,46 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/triet-ly-cho-ca-cho-cuoc-song-tap-1_19841.html",
+    "title" : "Triết Lý Chợ Cá Cho Cuộc Sống Tập 1",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Stephen C. Lundin",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 9088,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_860b4ae8deb17e45310f2f28dbdcfa8b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_860b4ae8deb17e45310f2f28dbdcfa8b.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/triet-ly-1_202208/triet-ly-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9088,
+    "title" : "triet-ly-1"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/triet-ly-1_202208/triet-ly-1.mp3",
+    "title" : "triet-ly-1",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

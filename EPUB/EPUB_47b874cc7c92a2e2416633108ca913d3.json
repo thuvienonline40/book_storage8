@@ -1,0 +1,46 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ren-nghi-luc-de-lap-than_19535.html",
+    "title" : "Rèn Nghị Lực Để Lập Thân",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Hiến Lê",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 7890,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_47b874cc7c92a2e2416633108ca913d3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_47b874cc7c92a2e2416633108ca913d3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/RnNghhLcLPThnNguyNHinnLuFull/R%C3%A8n%20Ngh%E1%BB%8B%20L%E1%BB%B1c%20%C4%90%E1%BB%83%20L%E1%BA%ADp%20Th%C3%A2n%20-%20Nguy%E1%BB%85n%20Hi%E1%BA%BFn%20L%C3%AA%20%28Full%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7890,
+    "title" : "Rèn Nghị Lực Để Lập Thân - Nguyễn Hiến Lê (Full)"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/RnNghhLcLPThnNguyNHinnLuFull/R%C3%A8n%20Ngh%E1%BB%8B%20L%E1%BB%B1c%20%C4%90%E1%BB%83%20L%E1%BA%ADp%20Th%C3%A2n%20-%20Nguy%E1%BB%85n%20Hi%E1%BA%BFn%20L%C3%AA%20%28Full%29.mp3",
+    "title" : "Rèn Nghị Lực Để Lập Thân - Nguyễn Hiến Lê (Full)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,236 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/phong-tuc-mien-nam_19424.html",
+    "title" : "Phong Tục Miền Nam",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vương Đằng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 44873,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_00c10c24d24e7aaaf83d65f10645c251.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_00c10c24d24e7aaaf83d65f10645c251.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/00.GioiThieu_PhongTucMienNam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 276,
+    "title" : "00.GioiThieu PhongTucMienNam"
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/01.P01_PhanNhapDe_PhongTucMienNam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2661,
+    "title" : "01.P01 PhanNhapDe PhongTucMienNam"
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/02.P02A_C01_CoCauToChuc_PhongTucNgoaiXaHoi_PhongTucMienNam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1754,
+    "title" : "02.P02A C01 CoCauToChuc PhongTucNgoaiXaHoi PhongTucMienNam"
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/03.P02B_C02_CanhTriLang_PhongTucNgoaiXaHoi_PhongTucMienNam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2156,
+    "title" : "03.P02B C02 CanhTriLang PhongTucNgoaiXaHoi PhongTucMienNam"
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/04.P02C_C03_LeLang_PhongTucNgoaiXaHoi_PhongTucMienNam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1486,
+    "title" : "04.P02C C03 LeLang PhongTucNgoaiXaHoi PhongTucMienNam"
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/05.P02D_C04_TetNguyenDang_PhongTucNgoaiXaHoi_PhongTucMienNam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2701,
+    "title" : "05.P02D C04 TetNguyenDang PhongTucNgoaiXaHoi PhongTucMienNam"
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/06.P02E_C05A_LeTietVaDinhDam_PhongTucMienNam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2278,
+    "title" : "06.P02E C05A LeTietVaDinhDam PhongTucMienNam"
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/07.P02E_C05B_LeTietVaDinhDam_PhongTucMienNam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1627,
+    "title" : "07.P02E C05B LeTietVaDinhDam PhongTucMienNam"
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/08.P02F_C06_MeTinDiDoan_PhongTucMienNam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2934,
+    "title" : "08.P02F C06 MeTinDiDoan PhongTucMienNam"
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/09.P02G_C07_LinhTinh_PhongTucMienNam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3729,
+    "title" : "09.P02G C07 LinhTinh PhongTucMienNam"
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/10.P03A_C01_GiaTocVaNhaCua_PhongTucMienNam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3522,
+    "title" : "10.P03A C01 GiaTocVaNhaCua PhongTucMienNam"
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/11.P03B_C02A_ThucPham_PhongTucMienNam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2124,
+    "title" : "11.P03B C02A ThucPham PhongTucMienNam"
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/12.P03B_C02B_ThucPham_PhongTucTrongGiaDinh_PhongTucMienNam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2005,
+    "title" : "12.P03B C02B ThucPham PhongTucTrongGiaDinh PhongTucMienNam"
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/13.P03C_C03_PhucSuc_PhongTucTrongGiaDinh_PhongTucMienNam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2967,
+    "title" : "13.P03C C03 PhucSuc PhongTucTrongGiaDinh PhongTucMienNam"
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/14.P03D_C04A_SinhKe_PhongTucTrongGiaDinh_PhongTucMienNam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1801,
+    "title" : "14.P03D C04A SinhKe PhongTucTrongGiaDinh PhongTucMienNam"
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/15.P03D_C04B_SinhKe_PhongTucTrongGiaDinh_PhongTucMienNam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2956,
+    "title" : "15.P03D C04B SinhKe PhongTucTrongGiaDinh PhongTucMienNam"
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/16.P03E_C05A_SinhDuongVBinhHoan_PhongTucMienNam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2573,
+    "title" : "16.P03E C05A SinhDuongVBinhHoan PhongTucMienNam"
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/17.P03E_C05B_SinhDuongVBinhHoan_PhongTucMienNam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1280,
+    "title" : "17.P03E C05B SinhDuongVBinhHoan PhongTucMienNam"
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/18.P03F_C06A_HonNhanVTangLe_PhongTucMienNam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1940,
+    "title" : "18.P03F C06A HonNhanVTangLe PhongTucMienNam"
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/19.P03F_C06B_Het_HonNhanVTangLe_PhongTucMienNam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2103,
+    "title" : "19.P03F C06B Het HonNhanVTangLe PhongTucMienNam"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/00.GioiThieu_PhongTucMienNam.mp3",
+    "title" : "00.GioiThieu PhongTucMienNam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/01.P01_PhanNhapDe_PhongTucMienNam.mp3",
+    "title" : "01.P01 PhanNhapDe PhongTucMienNam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/02.P02A_C01_CoCauToChuc_PhongTucNgoaiXaHoi_PhongTucMienNam.mp3",
+    "title" : "02.P02A C01 CoCauToChuc PhongTucNgoaiXaHoi PhongTucMienNam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/03.P02B_C02_CanhTriLang_PhongTucNgoaiXaHoi_PhongTucMienNam.mp3",
+    "title" : "03.P02B C02 CanhTriLang PhongTucNgoaiXaHoi PhongTucMienNam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/04.P02C_C03_LeLang_PhongTucNgoaiXaHoi_PhongTucMienNam.mp3",
+    "title" : "04.P02C C03 LeLang PhongTucNgoaiXaHoi PhongTucMienNam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/05.P02D_C04_TetNguyenDang_PhongTucNgoaiXaHoi_PhongTucMienNam.mp3",
+    "title" : "05.P02D C04 TetNguyenDang PhongTucNgoaiXaHoi PhongTucMienNam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/06.P02E_C05A_LeTietVaDinhDam_PhongTucMienNam.mp3",
+    "title" : "06.P02E C05A LeTietVaDinhDam PhongTucMienNam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/07.P02E_C05B_LeTietVaDinhDam_PhongTucMienNam.mp3",
+    "title" : "07.P02E C05B LeTietVaDinhDam PhongTucMienNam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/08.P02F_C06_MeTinDiDoan_PhongTucMienNam.mp3",
+    "title" : "08.P02F C06 MeTinDiDoan PhongTucMienNam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/09.P02G_C07_LinhTinh_PhongTucMienNam.mp3",
+    "title" : "09.P02G C07 LinhTinh PhongTucMienNam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/10.P03A_C01_GiaTocVaNhaCua_PhongTucMienNam.mp3",
+    "title" : "10.P03A C01 GiaTocVaNhaCua PhongTucMienNam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/11.P03B_C02A_ThucPham_PhongTucMienNam.mp3",
+    "title" : "11.P03B C02A ThucPham PhongTucMienNam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/12.P03B_C02B_ThucPham_PhongTucTrongGiaDinh_PhongTucMienNam.mp3",
+    "title" : "12.P03B C02B ThucPham PhongTucTrongGiaDinh PhongTucMienNam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/13.P03C_C03_PhucSuc_PhongTucTrongGiaDinh_PhongTucMienNam.mp3",
+    "title" : "13.P03C C03 PhucSuc PhongTucTrongGiaDinh PhongTucMienNam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/14.P03D_C04A_SinhKe_PhongTucTrongGiaDinh_PhongTucMienNam.mp3",
+    "title" : "14.P03D C04A SinhKe PhongTucTrongGiaDinh PhongTucMienNam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/15.P03D_C04B_SinhKe_PhongTucTrongGiaDinh_PhongTucMienNam.mp3",
+    "title" : "15.P03D C04B SinhKe PhongTucTrongGiaDinh PhongTucMienNam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/16.P03E_C05A_SinhDuongVBinhHoan_PhongTucMienNam.mp3",
+    "title" : "16.P03E C05A SinhDuongVBinhHoan PhongTucMienNam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/17.P03E_C05B_SinhDuongVBinhHoan_PhongTucMienNam.mp3",
+    "title" : "17.P03E C05B SinhDuongVBinhHoan PhongTucMienNam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/18.P03F_C06A_HonNhanVTangLe_PhongTucMienNam.mp3",
+    "title" : "18.P03F C06A HonNhanVTangLe PhongTucMienNam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-tuc-mien-nam.sna/19.P03F_C06B_Het_HonNhanVTangLe_PhongTucMienNam.mp3",
+    "title" : "19.P03F C06B Het HonNhanVTangLe PhongTucMienNam",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

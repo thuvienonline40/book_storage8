@@ -1,0 +1,76 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/an-nhien-giua-nhung-thang-tram_19382.html",
+    "title" : "An Nhiên Giữa Những Thăng Trầm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Tánh Tuệ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 30053,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_af37d6c2ae5b10bc0956cfc97298dd65.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_af37d6c2ae5b10bc0956cfc97298dd65.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/an-nhien-1/an-nhien-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7439,
+    "title" : "an-nhien-11"
+  }, {
+    "href" : "https://archive.org/download/an-nhien-1/an-nhien-22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "an-nhien-22"
+  }, {
+    "href" : "https://archive.org/download/an-nhien-1/an-nhien-33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6731,
+    "title" : "an-nhien-33"
+  }, {
+    "href" : "https://archive.org/download/an-nhien-1/an-nhien-44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8683,
+    "title" : "an-nhien-44"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/an-nhien-1/an-nhien-11.mp3",
+    "title" : "an-nhien-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-nhien-1/an-nhien-22.mp3",
+    "title" : "an-nhien-22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-nhien-1/an-nhien-33.mp3",
+    "title" : "an-nhien-33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-nhien-1/an-nhien-44.mp3",
+    "title" : "an-nhien-44",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

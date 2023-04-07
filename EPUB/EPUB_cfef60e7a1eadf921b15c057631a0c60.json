@@ -1,0 +1,66 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/the-gioi-bi-mat-cua-tre-em_19396.html",
+    "title" : "Thế Giới Bí Mật Của Trẻ Em",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thérèse Gouin Décarie",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 3353,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_cfef60e7a1eadf921b15c057631a0c60.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_cfef60e7a1eadf921b15c057631a0c60.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/the-gioi-bi-mat-cua-tre-em.sna/01.GioiThieu_TheGioiBiMatCuaTreEm.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 572,
+    "title" : "01.GioiThieu TheGioiBiMatCuaTreEm"
+  }, {
+    "href" : "https://archive.org/download/the-gioi-bi-mat-cua-tre-em.sna/02.C0102_MeVaConTuyHaiMaMot_TamLyNguoiMeKhiSinhDe_TheGioiBiMatCuaTreEm.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1377,
+    "title" : "02.C0102 MeVaConTuyHaiMaMot TamLyNguoiMeKhiSinhDe TheGioiBiMatCuaTreEm"
+  }, {
+    "href" : "https://archive.org/download/the-gioi-bi-mat-cua-tre-em.sna/03.C0304_DuaTreMoiSinh_PhanUngCuaMeDoiVoiTreMoiSinh_TheGioiBiMatCuaTreEm.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1404,
+    "title" : "03.C0304 DuaTreMoiSinh PhanUngCuaMeDoiVoiTreMoiSinh TheGioiBiMatCuaTreEm"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/the-gioi-bi-mat-cua-tre-em.sna/01.GioiThieu_TheGioiBiMatCuaTreEm.mp3",
+    "title" : "01.GioiThieu TheGioiBiMatCuaTreEm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-gioi-bi-mat-cua-tre-em.sna/02.C0102_MeVaConTuyHaiMaMot_TamLyNguoiMeKhiSinhDe_TheGioiBiMatCuaTreEm.mp3",
+    "title" : "02.C0102 MeVaConTuyHaiMaMot TamLyNguoiMeKhiSinhDe TheGioiBiMatCuaTreEm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/the-gioi-bi-mat-cua-tre-em.sna/03.C0304_DuaTreMoiSinh_PhanUngCuaMeDoiVoiTreMoiSinh_TheGioiBiMatCuaTreEm.mp3",
+    "title" : "03.C0304 DuaTreMoiSinh PhanUngCuaMeDoiVoiTreMoiSinh TheGioiBiMatCuaTreEm",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

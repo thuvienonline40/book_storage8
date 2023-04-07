@@ -1,0 +1,46 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/doi-ngan-dung-ngu-dai_19432.html",
+    "title" : "Đời Ngắn Đừng Ngủ Dài",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Robin Sharma",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 9240,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_c13e941abf21d181ccdb1b4fb2745f06.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_c13e941abf21d181ccdb1b4fb2745f06.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/doingandungngudai_201911/%C4%90%E1%BB%9Di%20Ng%E1%BA%AFn%20%C4%90%E1%BB%ABng%20Ng%E1%BB%A7%20D%C3%A0i.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9240,
+    "title" : "Đời Ngắn Đừng Ngủ Dài"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/doingandungngudai_201911/%C4%90%E1%BB%9Di%20Ng%E1%BA%AFn%20%C4%90%E1%BB%ABng%20Ng%E1%BB%A7%20D%C3%A0i.mp3",
+    "title" : "Đời Ngắn Đừng Ngủ Dài",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

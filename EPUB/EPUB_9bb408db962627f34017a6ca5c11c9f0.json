@@ -1,0 +1,116 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/15-anh-hung-dan-gian-qua-cac-thoi-dai_19811.html",
+    "title" : "15 Anh Hùng Dân Gian Qua Các Thời Đại",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đoàn Doãn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 22299,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_9bb408db962627f34017a6ca5c11c9f0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_9bb408db962627f34017a6ca5c11c9f0.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/File08/File_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3561,
+    "title" : "15 Anh Hùng Dân Gian Các Thời Đại - 01"
+  }, {
+    "href" : "https://archive.org/download/File08/File_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3264,
+    "title" : "15 Anh Hùng Dân Gian Các Thời Đại - 02"
+  }, {
+    "href" : "https://archive.org/download/File08/File_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3599,
+    "title" : "15 Anh Hùng Dân Gian Các Thời Đại - 03"
+  }, {
+    "href" : "https://archive.org/download/File08/File_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 937,
+    "title" : "15 Anh Hùng Dân Gian Các Thời Đại - 04"
+  }, {
+    "href" : "https://archive.org/download/File08/File_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3258,
+    "title" : "15 Anh Hùng Dân Gian Các Thời Đại - 05"
+  }, {
+    "href" : "https://archive.org/download/File08/File_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3337,
+    "title" : "15 Anh Hùng Dân Gian Các Thời Đại - 06"
+  }, {
+    "href" : "https://archive.org/download/File08/File_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 508,
+    "title" : "15 Anh Hùng Dân Gian Các Thời Đại - 07"
+  }, {
+    "href" : "https://archive.org/download/File08/File_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3835,
+    "title" : "15 Anh Hùng Dân Gian Các Thời Đại - 08"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/File08/File_01.mp3",
+    "title" : "15 Anh Hùng Dân Gian Các Thời Đại - 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/File08/File_02.mp3",
+    "title" : "15 Anh Hùng Dân Gian Các Thời Đại - 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/File08/File_03.mp3",
+    "title" : "15 Anh Hùng Dân Gian Các Thời Đại - 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/File08/File_04.mp3",
+    "title" : "15 Anh Hùng Dân Gian Các Thời Đại - 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/File08/File_05.mp3",
+    "title" : "15 Anh Hùng Dân Gian Các Thời Đại - 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/File08/File_06.mp3",
+    "title" : "15 Anh Hùng Dân Gian Các Thời Đại - 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/File08/File_07.mp3",
+    "title" : "15 Anh Hùng Dân Gian Các Thời Đại - 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/File08/File_08.mp3",
+    "title" : "15 Anh Hùng Dân Gian Các Thời Đại - 08",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

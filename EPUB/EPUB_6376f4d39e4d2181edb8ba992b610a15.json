@@ -1,0 +1,66 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cam-on-em-da-yeu-anh_19800.html",
+    "title" : "Cảm Ơn Em Đã Yêu Anh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Duyên Anh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 14811,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_6376f4d39e4d2181edb8ba992b610a15.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_6376f4d39e4d2181edb8ba992b610a15.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cam-on-1_202201/cam-on-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5414,
+    "title" : "cam-on-1"
+  }, {
+    "href" : "https://archive.org/download/cam-on-1_202201/cam-on-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4641,
+    "title" : "cam-on-2"
+  }, {
+    "href" : "https://archive.org/download/cam-on-1_202201/cam-on-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4756,
+    "title" : "cam-on-3"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cam-on-1_202201/cam-on-1.mp3",
+    "title" : "cam-on-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-on-1_202201/cam-on-2.mp3",
+    "title" : "cam-on-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-on-1_202201/cam-on-3.mp3",
+    "title" : "cam-on-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

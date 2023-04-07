@@ -1,0 +1,116 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bo-ba-xuat-chung-han-quoc_19397.html",
+    "title" : "Bộ Ba Xuất Chúng Hàn Quốc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jung Hyuk June",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 18123,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_8a89f63b14cbde1dad203ccdf7498785.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_8a89f63b14cbde1dad203ccdf7498785.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tam-guong-sang-cua-vi-nhan-han-quoc.sna/01.GioiThieu_BoBaXuatChungHanQuoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1325,
+    "title" : "01.GioiThieu BoBaXuatChungHanQuoc"
+  }, {
+    "href" : "https://archive.org/download/tam-guong-sang-cua-vi-nhan-han-quoc.sna/02.C01A_NhungThatBaiDauDoi_BoBaXuatChungHanQuoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1854,
+    "title" : "02.C01A NhungThatBaiDauDoi BoBaXuatChungHanQuoc"
+  }, {
+    "href" : "https://archive.org/download/tam-guong-sang-cua-vi-nhan-han-quoc.sna/03.C01B_NhungThatBaiDauDoi_BoBaXuatChungHanQuoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2676,
+    "title" : "03.C01B NhungThatBaiDauDoi BoBaXuatChungHanQuoc"
+  }, {
+    "href" : "https://archive.org/download/tam-guong-sang-cua-vi-nhan-han-quoc.sna/04.C02_KhongCoBuocNgoatThiKhongPhaiCuocDoi_BoBaXuatChungHanQuoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2796,
+    "title" : "04.C02 KhongCoBuocNgoatThiKhongPhaiCuocDoi BoBaXuatChungHanQuoc"
+  }, {
+    "href" : "https://archive.org/download/tam-guong-sang-cua-vi-nhan-han-quoc.sna/05.C03_NhungViecNguoiKhacKhongLamThiToiCungVanLam_BoBaXuatChungHanQuoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2591,
+    "title" : "05.C03 NhungViecNguoiKhacKhongLamThiToiCungVanLam BoBaXuatChungHanQuoc"
+  }, {
+    "href" : "https://archive.org/download/tam-guong-sang-cua-vi-nhan-han-quoc.sna/06.C04A_VietNenHuyenThoai_BoBaXuatChungHanQuoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2745,
+    "title" : "06.C04A VietNenHuyenThoai BoBaXuatChungHanQuoc"
+  }, {
+    "href" : "https://archive.org/download/tam-guong-sang-cua-vi-nhan-han-quoc.sna/07.C04B_VietNenHuyenThoai_BoBaXuatChungHanQuoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1740,
+    "title" : "07.C04B VietNenHuyenThoai BoBaXuatChungHanQuoc"
+  }, {
+    "href" : "https://archive.org/download/tam-guong-sang-cua-vi-nhan-han-quoc.sna/08.C05_Het_TaiSanThuaKeHoDeLaiChoChungTa_BoBaXuatChungHanQuoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2396,
+    "title" : "08.C05 Het TaiSanThuaKeHoDeLaiChoChungTa BoBaXuatChungHanQuoc"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tam-guong-sang-cua-vi-nhan-han-quoc.sna/01.GioiThieu_BoBaXuatChungHanQuoc.mp3",
+    "title" : "01.GioiThieu BoBaXuatChungHanQuoc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-guong-sang-cua-vi-nhan-han-quoc.sna/02.C01A_NhungThatBaiDauDoi_BoBaXuatChungHanQuoc.mp3",
+    "title" : "02.C01A NhungThatBaiDauDoi BoBaXuatChungHanQuoc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-guong-sang-cua-vi-nhan-han-quoc.sna/03.C01B_NhungThatBaiDauDoi_BoBaXuatChungHanQuoc.mp3",
+    "title" : "03.C01B NhungThatBaiDauDoi BoBaXuatChungHanQuoc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-guong-sang-cua-vi-nhan-han-quoc.sna/04.C02_KhongCoBuocNgoatThiKhongPhaiCuocDoi_BoBaXuatChungHanQuoc.mp3",
+    "title" : "04.C02 KhongCoBuocNgoatThiKhongPhaiCuocDoi BoBaXuatChungHanQuoc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-guong-sang-cua-vi-nhan-han-quoc.sna/05.C03_NhungViecNguoiKhacKhongLamThiToiCungVanLam_BoBaXuatChungHanQuoc.mp3",
+    "title" : "05.C03 NhungViecNguoiKhacKhongLamThiToiCungVanLam BoBaXuatChungHanQuoc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-guong-sang-cua-vi-nhan-han-quoc.sna/06.C04A_VietNenHuyenThoai_BoBaXuatChungHanQuoc.mp3",
+    "title" : "06.C04A VietNenHuyenThoai BoBaXuatChungHanQuoc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-guong-sang-cua-vi-nhan-han-quoc.sna/07.C04B_VietNenHuyenThoai_BoBaXuatChungHanQuoc.mp3",
+    "title" : "07.C04B VietNenHuyenThoai BoBaXuatChungHanQuoc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-guong-sang-cua-vi-nhan-han-quoc.sna/08.C05_Het_TaiSanThuaKeHoDeLaiChoChungTa_BoBaXuatChungHanQuoc.mp3",
+    "title" : "08.C05 Het TaiSanThuaKeHoDeLaiChoChungTa BoBaXuatChungHanQuoc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

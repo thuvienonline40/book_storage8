@@ -1,0 +1,46 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tuoi-20-nhiet-huyet_19441.html",
+    "title" : "Tuổi 20 Nhiệt Huyết",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ken Honda",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 8720,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_1fa5a0b16def2d4f48c50218f2d3ac87.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_1fa5a0b16def2d4f48c50218f2d3ac87.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/audiobook-tuoi-20-nhiet-huyet-ken-honda-full-version/Audiobook%20-%20Tu%E1%BB%95i%2020%20nhi%E1%BB%87t%20huy%E1%BA%BFt%20-%20Ken%20Honda%20%28Full%20version%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8720,
+    "title" : "Audiobook - Tuổi 20 nhiệt huyết - Ken Honda (Full version)"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/audiobook-tuoi-20-nhiet-huyet-ken-honda-full-version/Audiobook%20-%20Tu%E1%BB%95i%2020%20nhi%E1%BB%87t%20huy%E1%BA%BFt%20-%20Ken%20Honda%20%28Full%20version%29.mp3",
+    "title" : "Audiobook - Tuổi 20 nhiệt huyết - Ken Honda (Full version)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,136 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thap-dai-de-tu-truyen_19888.html",
+    "title" : "Thập Đại Đệ Tử Truyện",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tinh Vân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 37444,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_5cc05fbd9453d5714824ec9aca822b92.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_5cc05fbd9453d5714824ec9aca822b92.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/a-nan/a-na.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3330,
+    "title" : "a-na"
+  }, {
+    "href" : "https://archive.org/download/a-nan/a-nan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4936,
+    "title" : "a-nan"
+  }, {
+    "href" : "https://archive.org/download/a-nan/ca-chien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3503,
+    "title" : "ca-chien"
+  }, {
+    "href" : "https://archive.org/download/a-nan/dai-ca.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4039,
+    "title" : "dai-ca"
+  }, {
+    "href" : "https://archive.org/download/a-nan/la-hau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3198,
+    "title" : "la-hau"
+  }, {
+    "href" : "https://archive.org/download/a-nan/muc-kien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3526,
+    "title" : "muc-kien"
+  }, {
+    "href" : "https://archive.org/download/a-nan/phu-lau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3129,
+    "title" : "phu-lau"
+  }, {
+    "href" : "https://archive.org/download/a-nan/tu-bo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3778,
+    "title" : "tu-bo"
+  }, {
+    "href" : "https://archive.org/download/a-nan/uu-ba.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3513,
+    "title" : "uu-ba"
+  }, {
+    "href" : "https://archive.org/download/a-nan/xa-loi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4492,
+    "title" : "xa-loi"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/a-nan/a-na.mp3",
+    "title" : "a-na",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/a-nan/a-nan.mp3",
+    "title" : "a-nan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/a-nan/ca-chien.mp3",
+    "title" : "ca-chien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/a-nan/dai-ca.mp3",
+    "title" : "dai-ca",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/a-nan/la-hau.mp3",
+    "title" : "la-hau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/a-nan/muc-kien.mp3",
+    "title" : "muc-kien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/a-nan/phu-lau.mp3",
+    "title" : "phu-lau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/a-nan/tu-bo.mp3",
+    "title" : "tu-bo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/a-nan/uu-ba.mp3",
+    "title" : "uu-ba",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/a-nan/xa-loi.mp3",
+    "title" : "xa-loi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

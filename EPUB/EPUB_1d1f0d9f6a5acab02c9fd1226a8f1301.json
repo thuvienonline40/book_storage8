@@ -1,0 +1,66 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ke-hoach-lam-giau-365-ngay_19452.html",
+    "title" : "Kế Hoạch Làm Giàu 365 Ngày",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Napoleon Hill",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 21997,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_1d1f0d9f6a5acab02c9fd1226a8f1301.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_1d1f0d9f6a5acab02c9fd1226a8f1301.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ke-hoach-1_202111/ke-hoach-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7440,
+    "title" : "ke-hoach-1"
+  }, {
+    "href" : "https://archive.org/download/ke-hoach-1_202111/ke-hoach-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7440,
+    "title" : "ke-hoach-2"
+  }, {
+    "href" : "https://archive.org/download/ke-hoach-1_202111/ke-hoach-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7117,
+    "title" : "ke-hoach-3"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ke-hoach-1_202111/ke-hoach-1.mp3",
+    "title" : "ke-hoach-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-hoach-1_202111/ke-hoach-2.mp3",
+    "title" : "ke-hoach-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ke-hoach-1_202111/ke-hoach-3.mp3",
+    "title" : "ke-hoach-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

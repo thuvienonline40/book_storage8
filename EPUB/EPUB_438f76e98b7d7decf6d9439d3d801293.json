@@ -1,0 +1,266 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/su-song-sau-cai-chet_19899.html",
+    "title" : "Sự Sống Sau Cái Chết",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Deepak Chopra",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 41899,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_438f76e98b7d7decf6d9439d3d801293.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_438f76e98b7d7decf6d9439d3d801293.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/su-song-01/su-song-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2632,
+    "title" : "su-song-01"
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1586,
+    "title" : "su-song-02"
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1629,
+    "title" : "su-song-03"
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2294,
+    "title" : "su-song-04"
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1539,
+    "title" : "su-song-05"
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1666,
+    "title" : "su-song-06"
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2139,
+    "title" : "su-song-07"
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1626,
+    "title" : "su-song-08"
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1738,
+    "title" : "su-song-09"
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2228,
+    "title" : "su-song-10"
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1888,
+    "title" : "su-song-11"
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1473,
+    "title" : "su-song-12"
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1553,
+    "title" : "su-song-13"
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2409,
+    "title" : "su-song-14"
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2306,
+    "title" : "su-song-15"
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1861,
+    "title" : "su-song-16"
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1696,
+    "title" : "su-song-17"
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1767,
+    "title" : "su-song-18"
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1433,
+    "title" : "su-song-19"
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1756,
+    "title" : "su-song-20"
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1926,
+    "title" : "su-song-21"
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1990,
+    "title" : "su-song-22"
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 764,
+    "title" : "su-song-23"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/su-song-01/su-song-01.mp3",
+    "title" : "su-song-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-02.mp3",
+    "title" : "su-song-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-03.mp3",
+    "title" : "su-song-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-04.mp3",
+    "title" : "su-song-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-05.mp3",
+    "title" : "su-song-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-06.mp3",
+    "title" : "su-song-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-07.mp3",
+    "title" : "su-song-07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-08.mp3",
+    "title" : "su-song-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-09.mp3",
+    "title" : "su-song-09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-10.mp3",
+    "title" : "su-song-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-11.mp3",
+    "title" : "su-song-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-12.mp3",
+    "title" : "su-song-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-13.mp3",
+    "title" : "su-song-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-14.mp3",
+    "title" : "su-song-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-15.mp3",
+    "title" : "su-song-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-16.mp3",
+    "title" : "su-song-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-17.mp3",
+    "title" : "su-song-17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-18.mp3",
+    "title" : "su-song-18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-19.mp3",
+    "title" : "su-song-19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-20.mp3",
+    "title" : "su-song-20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-21.mp3",
+    "title" : "su-song-21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-22.mp3",
+    "title" : "su-song-22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-song-01/su-song-23.mp3",
+    "title" : "su-song-23",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

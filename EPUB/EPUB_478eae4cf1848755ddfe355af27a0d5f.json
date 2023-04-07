@@ -1,0 +1,96 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/sinh-trac-van-tay_19484.html",
+    "title" : "Sinh Trắc Vân Tay",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Richard Unger",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 41261,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_478eae4cf1848755ddfe355af27a0d5f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_478eae4cf1848755ddfe355af27a0d5f.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sinh-trac-1/sinh-trac-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "sinh-trac-1"
+  }, {
+    "href" : "https://archive.org/download/sinh-trac-1/sinh-trac-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "sinh-trac-2"
+  }, {
+    "href" : "https://archive.org/download/sinh-trac-1/sinh-trac-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "sinh-trac-3"
+  }, {
+    "href" : "https://archive.org/download/sinh-trac-1/sinh-trac-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "sinh-trac-4"
+  }, {
+    "href" : "https://archive.org/download/sinh-trac-1/sinh-trac-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "sinh-trac-5"
+  }, {
+    "href" : "https://archive.org/download/sinh-trac-1/sinh-trac-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5261,
+    "title" : "sinh-trac-6"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sinh-trac-1/sinh-trac-1.mp3",
+    "title" : "sinh-trac-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sinh-trac-1/sinh-trac-2.mp3",
+    "title" : "sinh-trac-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sinh-trac-1/sinh-trac-3.mp3",
+    "title" : "sinh-trac-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sinh-trac-1/sinh-trac-4.mp3",
+    "title" : "sinh-trac-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sinh-trac-1/sinh-trac-5.mp3",
+    "title" : "sinh-trac-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sinh-trac-1/sinh-trac-6.mp3",
+    "title" : "sinh-trac-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

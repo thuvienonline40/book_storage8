@@ -1,0 +1,186 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cho-di-la-con-mai_19544.html",
+    "title" : "Cho Đi Là Còn Mãi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Harvey McKinnon",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 17426,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_df3ea50160f2c81c203777e57a1e612f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_df3ea50160f2c81c203777e57a1e612f.gif",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cho-di-la-con-mai.sna/01.C00_MucLuc_MoDau_ChoDiLaConMai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1149,
+    "title" : "01.C00 MucLuc MoDau ChoDiLaConMai"
+  }, {
+    "href" : "https://archive.org/download/cho-di-la-con-mai.sna/02.C01A_SucManhCuaChiaSe_ChoDiLaConMai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1239,
+    "title" : "02.C01A SucManhCuaChiaSe ChoDiLaConMai"
+  }, {
+    "href" : "https://archive.org/download/cho-di-la-con-mai.sna/03.C01B_SucManhCuaChiaSe_ChoDiLaConMai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 672,
+    "title" : "03.C01B SucManhCuaChiaSe ChoDiLaConMai"
+  }, {
+    "href" : "https://archive.org/download/cho-di-la-con-mai.sna/04.C02A_NhungMonQuaTuTraiTim_ChoDiLaConMai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1194,
+    "title" : "04.C02A NhungMonQuaTuTraiTim ChoDiLaConMai"
+  }, {
+    "href" : "https://archive.org/download/cho-di-la-con-mai.sna/05.C02B_NhungMonQuaTuTraiTim_ChoDiLaConMai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1488,
+    "title" : "05.C02B NhungMonQuaTuTraiTim ChoDiLaConMai"
+  }, {
+    "href" : "https://archive.org/download/cho-di-la-con-mai.sna/06.C02C_NhungMonQuaTuTraiTim_ChoDiLaConMai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1172,
+    "title" : "06.C02C NhungMonQuaTuTraiTim ChoDiLaConMai"
+  }, {
+    "href" : "https://archive.org/download/cho-di-la-con-mai.sna/07.C02D_NhungMonQuaTuTraiTim_ChoDiLaConMai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1415,
+    "title" : "07.C02D NhungMonQuaTuTraiTim ChoDiLaConMai"
+  }, {
+    "href" : "https://archive.org/download/cho-di-la-con-mai.sna/08.C03A_NhungNguoiCanChiaSe_ChoDiLaConMai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 798,
+    "title" : "08.C03A NhungNguoiCanChiaSe ChoDiLaConMai"
+  }, {
+    "href" : "https://archive.org/download/cho-di-la-con-mai.sna/09.C03B_NhungNguoiCanChiaSe_ChoDiLaConMai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1527,
+    "title" : "09.C03B NhungNguoiCanChiaSe ChoDiLaConMai"
+  }, {
+    "href" : "https://archive.org/download/cho-di-la-con-mai.sna/10.C03C_NhungNguoiCanChiaSe_ChoDiLaConMai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1305,
+    "title" : "10.C03C NhungNguoiCanChiaSe ChoDiLaConMai"
+  }, {
+    "href" : "https://archive.org/download/cho-di-la-con-mai.sna/11.C03D_NhungNguoiCanChiaSe_ChoDiLaConMai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1052,
+    "title" : "11.C03D NhungNguoiCanChiaSe ChoDiLaConMai"
+  }, {
+    "href" : "https://archive.org/download/cho-di-la-con-mai.sna/12.C04A_HocCachChiaSe_ChoDiLaConMai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1135,
+    "title" : "12.C04A HocCachChiaSe ChoDiLaConMai"
+  }, {
+    "href" : "https://archive.org/download/cho-di-la-con-mai.sna/13.C04B_HocCachChiaSe_ChoDiLaConMai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1192,
+    "title" : "13.C04B HocCachChiaSe ChoDiLaConMai"
+  }, {
+    "href" : "https://archive.org/download/cho-di-la-con-mai.sna/14.C04C_HocCachChiaSe_ChoDiLaConMai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1311,
+    "title" : "14.C04C HocCachChiaSe ChoDiLaConMai"
+  }, {
+    "href" : "https://archive.org/download/cho-di-la-con-mai.sna/15.C05_BietTuBo_LoiKet_ChoDiLaConMai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 777,
+    "title" : "15.C05 BietTuBo LoiKet ChoDiLaConMai"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cho-di-la-con-mai.sna/01.C00_MucLuc_MoDau_ChoDiLaConMai.mp3",
+    "title" : "01.C00 MucLuc MoDau ChoDiLaConMai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-di-la-con-mai.sna/02.C01A_SucManhCuaChiaSe_ChoDiLaConMai.mp3",
+    "title" : "02.C01A SucManhCuaChiaSe ChoDiLaConMai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-di-la-con-mai.sna/03.C01B_SucManhCuaChiaSe_ChoDiLaConMai.mp3",
+    "title" : "03.C01B SucManhCuaChiaSe ChoDiLaConMai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-di-la-con-mai.sna/04.C02A_NhungMonQuaTuTraiTim_ChoDiLaConMai.mp3",
+    "title" : "04.C02A NhungMonQuaTuTraiTim ChoDiLaConMai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-di-la-con-mai.sna/05.C02B_NhungMonQuaTuTraiTim_ChoDiLaConMai.mp3",
+    "title" : "05.C02B NhungMonQuaTuTraiTim ChoDiLaConMai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-di-la-con-mai.sna/06.C02C_NhungMonQuaTuTraiTim_ChoDiLaConMai.mp3",
+    "title" : "06.C02C NhungMonQuaTuTraiTim ChoDiLaConMai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-di-la-con-mai.sna/07.C02D_NhungMonQuaTuTraiTim_ChoDiLaConMai.mp3",
+    "title" : "07.C02D NhungMonQuaTuTraiTim ChoDiLaConMai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-di-la-con-mai.sna/08.C03A_NhungNguoiCanChiaSe_ChoDiLaConMai.mp3",
+    "title" : "08.C03A NhungNguoiCanChiaSe ChoDiLaConMai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-di-la-con-mai.sna/09.C03B_NhungNguoiCanChiaSe_ChoDiLaConMai.mp3",
+    "title" : "09.C03B NhungNguoiCanChiaSe ChoDiLaConMai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-di-la-con-mai.sna/10.C03C_NhungNguoiCanChiaSe_ChoDiLaConMai.mp3",
+    "title" : "10.C03C NhungNguoiCanChiaSe ChoDiLaConMai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-di-la-con-mai.sna/11.C03D_NhungNguoiCanChiaSe_ChoDiLaConMai.mp3",
+    "title" : "11.C03D NhungNguoiCanChiaSe ChoDiLaConMai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-di-la-con-mai.sna/12.C04A_HocCachChiaSe_ChoDiLaConMai.mp3",
+    "title" : "12.C04A HocCachChiaSe ChoDiLaConMai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-di-la-con-mai.sna/13.C04B_HocCachChiaSe_ChoDiLaConMai.mp3",
+    "title" : "13.C04B HocCachChiaSe ChoDiLaConMai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-di-la-con-mai.sna/14.C04C_HocCachChiaSe_ChoDiLaConMai.mp3",
+    "title" : "14.C04C HocCachChiaSe ChoDiLaConMai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cho-di-la-con-mai.sna/15.C05_BietTuBo_LoiKet_ChoDiLaConMai.mp3",
+    "title" : "15.C05 BietTuBo LoiKet ChoDiLaConMai",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

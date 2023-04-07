@@ -1,0 +1,206 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thoi-quen-thu-8-tu-hieu-qua-den-vi-dai_19534.html",
+    "title" : "Thói Quen Thứ 8 - Từ Hiệu Quả Đến Vĩ Đại",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Stephen R. Covey",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 0,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_be243ffdaa551d6ef120999133dc6962.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_be243ffdaa551d6ef120999133dc6962.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/01.TQT8_C00_GioiThieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01.TQT8 C00 GioiThieu"
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/02.TQT8_C01_NoiDau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02.TQT8 C01 NoiDau"
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/03.TQT8_C02_VanDe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03.TQT8 C02 VanDe"
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/04.TQT8_C03_GiaiPhap.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04.TQT8 C03 GiaiPhap"
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/05.TQT8_C04_TiengNoiCuaBanThanVanDeThienPhu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05.TQT8 C04 TiengNoiCuaBanThanVanDeThienPhu"
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/06.TQT8_C05A_TheHienQDiemQuaTamNhinKyLuatSuDamMevaLuongTam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06.TQT8 C05A TheHienQDiemQuaTamNhinKyLuatSuDamMevaLuongTam"
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/07.TQT8_C05B_TheHienQDiemQuaTamNhinKyLuatSuDamMevaLuongTam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07.TQT8 C05B TheHienQDiemQuaTamNhinKyLuatSuDamMevaLuongTam"
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/08.TQT8_C06_CoVuNguoiKhacTimRaTiengNoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08.TQT8 C06 CoVuNguoiKhacTimRaTiengNoi"
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/09.TQT8_C07_TiengNoiCuaSuAnhHuongHayLaNguoiCamLai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09.TQT8 C07 TiengNoiCuaSuAnhHuongHayLaNguoiCamLai"
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/10.TQT8_C08_TiengNoiCuaTinNhiem.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10.TQT8 C08 TiengNoiCuaTinNhiem"
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/11.TQT8_C09_TiengNoiVaTocDoCuaNiemTin.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11.TQT8 C09 TiengNoiVaTocDoCuaNiemTin"
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/12.TQT8_C10_NhungTiengNoiKetHopDiTimPhuongAnThu3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12.TQT8 C10 NhungTiengNoiKetHopDiTimPhuongAnThu3"
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/13.TQT8_C11_MotTiengNoiConDuongDiDenNhungGiaTriVaChienLuocChung.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13.TQT8 C11 MotTiengNoiConDuongDiDenNhungGiaTriVaChienLuocChung"
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/14.TQT8_C12_TiengNoiVaLienKetKyLuat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14.TQT8 C12 TiengNoiVaLienKetKyLuat"
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/15.TQT8_C13_TraoQuyenKhoiNguonCamHungVaTaiNang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15.TQT8 C13 TraoQuyenKhoiNguonCamHungVaTaiNang"
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/16.TQT8_C14_ThoiQuenThu8VaDiemTuaNiemTin.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16.TQT8 C14 ThoiQuenThu8VaDiemTuaNiemTin"
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/17.TQT8_C15_SuDungTiengNoiMotCachThongMinh_Het.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17.TQT8 C15 SuDungTiengNoiMotCachThongMinh Het"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/01.TQT8_C00_GioiThieu.mp3",
+    "title" : "01.TQT8 C00 GioiThieu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/02.TQT8_C01_NoiDau.mp3",
+    "title" : "02.TQT8 C01 NoiDau",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/03.TQT8_C02_VanDe.mp3",
+    "title" : "03.TQT8 C02 VanDe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/04.TQT8_C03_GiaiPhap.mp3",
+    "title" : "04.TQT8 C03 GiaiPhap",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/05.TQT8_C04_TiengNoiCuaBanThanVanDeThienPhu.mp3",
+    "title" : "05.TQT8 C04 TiengNoiCuaBanThanVanDeThienPhu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/06.TQT8_C05A_TheHienQDiemQuaTamNhinKyLuatSuDamMevaLuongTam.mp3",
+    "title" : "06.TQT8 C05A TheHienQDiemQuaTamNhinKyLuatSuDamMevaLuongTam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/07.TQT8_C05B_TheHienQDiemQuaTamNhinKyLuatSuDamMevaLuongTam.mp3",
+    "title" : "07.TQT8 C05B TheHienQDiemQuaTamNhinKyLuatSuDamMevaLuongTam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/08.TQT8_C06_CoVuNguoiKhacTimRaTiengNoi.mp3",
+    "title" : "08.TQT8 C06 CoVuNguoiKhacTimRaTiengNoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/09.TQT8_C07_TiengNoiCuaSuAnhHuongHayLaNguoiCamLai.mp3",
+    "title" : "09.TQT8 C07 TiengNoiCuaSuAnhHuongHayLaNguoiCamLai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/10.TQT8_C08_TiengNoiCuaTinNhiem.mp3",
+    "title" : "10.TQT8 C08 TiengNoiCuaTinNhiem",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/11.TQT8_C09_TiengNoiVaTocDoCuaNiemTin.mp3",
+    "title" : "11.TQT8 C09 TiengNoiVaTocDoCuaNiemTin",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/12.TQT8_C10_NhungTiengNoiKetHopDiTimPhuongAnThu3.mp3",
+    "title" : "12.TQT8 C10 NhungTiengNoiKetHopDiTimPhuongAnThu3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/13.TQT8_C11_MotTiengNoiConDuongDiDenNhungGiaTriVaChienLuocChung.mp3",
+    "title" : "13.TQT8 C11 MotTiengNoiConDuongDiDenNhungGiaTriVaChienLuocChung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/14.TQT8_C12_TiengNoiVaLienKetKyLuat.mp3",
+    "title" : "14.TQT8 C12 TiengNoiVaLienKetKyLuat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/15.TQT8_C13_TraoQuyenKhoiNguonCamHungVaTaiNang.mp3",
+    "title" : "15.TQT8 C13 TraoQuyenKhoiNguonCamHungVaTaiNang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/16.TQT8_C14_ThoiQuenThu8VaDiemTuaNiemTin.mp3",
+    "title" : "16.TQT8 C14 ThoiQuenThu8VaDiemTuaNiemTin",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thoi-quen-thu-8.sna/17.TQT8_C15_SuDungTiengNoiMotCachThongMinh_Het.mp3",
+    "title" : "17.TQT8 C15 SuDungTiengNoiMotCachThongMinh Het",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

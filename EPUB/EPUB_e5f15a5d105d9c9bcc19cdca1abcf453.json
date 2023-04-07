@@ -1,0 +1,46 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/kheo-noi-hay-de-khach-hang-mua-ngay_19486.html",
+    "title" : "Khéo Nói Hay Để Khách Hàng Mua Ngay",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lục Bằng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 31085,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_e5f15a5d105d9c9bcc19cdca1abcf453.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_e5f15a5d105d9c9bcc19cdca1abcf453.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/knhdkhmn/S%C3%81ch%20N%C3%B3i%20Full%20-%20Kh%C3%A9o%20N%C3%B3i%20Hay%20%C4%90%E1%BB%83%20Kh%C3%A1ch%20H%C3%A0ng%20Mua%20Ngay%20%28192kbit_AAC%29.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 31085,
+    "title" : "SÁch Nói Full - Khéo Nói Hay Để Khách Hàng Mua Ngay (192kbit AAC)"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/knhdkhmn/S%C3%81ch%20N%C3%B3i%20Full%20-%20Kh%C3%A9o%20N%C3%B3i%20Hay%20%C4%90%E1%BB%83%20Kh%C3%A1ch%20H%C3%A0ng%20Mua%20Ngay%20%28192kbit_AAC%29.m4a",
+    "title" : "SÁch Nói Full - Khéo Nói Hay Để Khách Hàng Mua Ngay (192kbit AAC)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

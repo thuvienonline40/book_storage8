@@ -1,0 +1,46 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tam-tinh_19427.html",
+    "title" : "Tâm Tình",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Thiện Thuận",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 3410,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_0779ab7a6c6645148590410ba1c5919b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_0779ab7a6c6645148590410ba1c5919b.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tam-tinh-tron-bo-khanh-dinh/T%C3%A2m%20T%C3%ACnh%20%28Tr%E1%BB%8Dn%20B%E1%BB%99%29%20-%20Kh%C3%A1nh%20%C4%90%E1%BB%8Bnh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3410,
+    "title" : "Tâm Tình (Trọn Bộ) - Khánh Định"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tam-tinh-tron-bo-khanh-dinh/T%C3%A2m%20T%C3%ACnh%20%28Tr%E1%BB%8Dn%20B%E1%BB%99%29%20-%20Kh%C3%A1nh%20%C4%90%E1%BB%8Bnh.mp3",
+    "title" : "Tâm Tình (Trọn Bộ) - Khánh Định",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

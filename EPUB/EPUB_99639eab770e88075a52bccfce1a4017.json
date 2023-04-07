@@ -1,0 +1,46 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cau-hoi-la-cau-tra-loi_19886.html",
+    "title" : "Câu Hỏi Là Câu Trả Lời",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Allan Pease",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 7518,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_99639eab770e88075a52bccfce1a4017.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_99639eab770e88075a52bccfce1a4017.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cau-hoi-la-cau-tra-loi/C%C3%A2u%20H%E1%BB%8Fi%20L%C3%A0%20C%C3%A2u%20Tr%E1%BA%A3%20L%E1%BB%9Di.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7518,
+    "title" : "Câu Hỏi Là Câu Trả Lời"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cau-hoi-la-cau-tra-loi/C%C3%A2u%20H%E1%BB%8Fi%20L%C3%A0%20C%C3%A2u%20Tr%E1%BA%A3%20L%E1%BB%9Di.mp3",
+    "title" : "Câu Hỏi Là Câu Trả Lời",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
