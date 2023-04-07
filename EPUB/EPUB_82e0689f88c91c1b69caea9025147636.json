@@ -1,0 +1,166 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cuu-hoang-bao-dai_19902.html#gsc.tab=0",
+    "title" : "Cựu Hoàng Bảo Đại - Sách nói",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Trọng Miên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 39106,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_82e0689f88c91c1b69caea9025147636.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_82e0689f88c91c1b69caea9025147636.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cuu-hoang-bao-dai.sna/01.CUU%20HOANG%20BAO%20DAI%2001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2180,
+    "title" : "01.CUU HOANG BAO DAI 01"
+  }, {
+    "href" : "https://archive.org/download/cuu-hoang-bao-dai.sna/02.CUU%20HOANG%20BAO%20DAI%2002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2105,
+    "title" : "02.CUU HOANG BAO DAI 02"
+  }, {
+    "href" : "https://archive.org/download/cuu-hoang-bao-dai.sna/03.CUU%20HOANG%20BAO%20DAI%2003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2341,
+    "title" : "03.CUU HOANG BAO DAI 03"
+  }, {
+    "href" : "https://archive.org/download/cuu-hoang-bao-dai.sna/04.CUU%20HOANG%20BAO%20DAI%2004.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3637,
+    "title" : "04.CUU HOANG BAO DAI 04"
+  }, {
+    "href" : "https://archive.org/download/cuu-hoang-bao-dai.sna/05.CUU%20HOANG%20BAO%20DAI%2005.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4272,
+    "title" : "05.CUU HOANG BAO DAI 05"
+  }, {
+    "href" : "https://archive.org/download/cuu-hoang-bao-dai.sna/06.CUU%20HOANG%20BAO%20DAI%2006.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2509,
+    "title" : "06.CUU HOANG BAO DAI 06"
+  }, {
+    "href" : "https://archive.org/download/cuu-hoang-bao-dai.sna/07.CUU%20HOANG%20BAO%20DAI%2007.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2505,
+    "title" : "07.CUU HOANG BAO DAI 07"
+  }, {
+    "href" : "https://archive.org/download/cuu-hoang-bao-dai.sna/08.CUU%20HOANG%20BAO%20DAI%2008.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3299,
+    "title" : "08.CUU HOANG BAO DAI 08"
+  }, {
+    "href" : "https://archive.org/download/cuu-hoang-bao-dai.sna/09.CUU%20HOANG%20BAO%20DAI%2009.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2379,
+    "title" : "09.CUU HOANG BAO DAI 09"
+  }, {
+    "href" : "https://archive.org/download/cuu-hoang-bao-dai.sna/10.CUU%20HOANG%20BAO%20DAI%2010.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4175,
+    "title" : "10.CUU HOANG BAO DAI 10"
+  }, {
+    "href" : "https://archive.org/download/cuu-hoang-bao-dai.sna/11.CUU%20HOANG%20BAO%20DAI%2011.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4292,
+    "title" : "11.CUU HOANG BAO DAI 11"
+  }, {
+    "href" : "https://archive.org/download/cuu-hoang-bao-dai.sna/12.CUU%20HOANG%20BAO%20DAI%2012.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2289,
+    "title" : "12.CUU HOANG BAO DAI 12"
+  }, {
+    "href" : "https://archive.org/download/cuu-hoang-bao-dai.sna/13.CUU%20HOANG%20BAO%20DAI%2013_Het.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3123,
+    "title" : "13.CUU HOANG BAO DAI 13 Het"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cuu-hoang-bao-dai.sna/01.CUU%20HOANG%20BAO%20DAI%2001.mp3",
+    "title" : "01.CUU HOANG BAO DAI 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuu-hoang-bao-dai.sna/02.CUU%20HOANG%20BAO%20DAI%2002.mp3",
+    "title" : "02.CUU HOANG BAO DAI 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuu-hoang-bao-dai.sna/03.CUU%20HOANG%20BAO%20DAI%2003.mp3",
+    "title" : "03.CUU HOANG BAO DAI 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuu-hoang-bao-dai.sna/04.CUU%20HOANG%20BAO%20DAI%2004.mp3",
+    "title" : "04.CUU HOANG BAO DAI 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuu-hoang-bao-dai.sna/05.CUU%20HOANG%20BAO%20DAI%2005.mp3",
+    "title" : "05.CUU HOANG BAO DAI 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuu-hoang-bao-dai.sna/06.CUU%20HOANG%20BAO%20DAI%2006.mp3",
+    "title" : "06.CUU HOANG BAO DAI 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuu-hoang-bao-dai.sna/07.CUU%20HOANG%20BAO%20DAI%2007.mp3",
+    "title" : "07.CUU HOANG BAO DAI 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuu-hoang-bao-dai.sna/08.CUU%20HOANG%20BAO%20DAI%2008.mp3",
+    "title" : "08.CUU HOANG BAO DAI 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuu-hoang-bao-dai.sna/09.CUU%20HOANG%20BAO%20DAI%2009.mp3",
+    "title" : "09.CUU HOANG BAO DAI 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuu-hoang-bao-dai.sna/10.CUU%20HOANG%20BAO%20DAI%2010.mp3",
+    "title" : "10.CUU HOANG BAO DAI 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuu-hoang-bao-dai.sna/11.CUU%20HOANG%20BAO%20DAI%2011.mp3",
+    "title" : "11.CUU HOANG BAO DAI 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuu-hoang-bao-dai.sna/12.CUU%20HOANG%20BAO%20DAI%2012.mp3",
+    "title" : "12.CUU HOANG BAO DAI 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuu-hoang-bao-dai.sna/13.CUU%20HOANG%20BAO%20DAI%2013_Het.mp3",
+    "title" : "13.CUU HOANG BAO DAI 13 Het",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
