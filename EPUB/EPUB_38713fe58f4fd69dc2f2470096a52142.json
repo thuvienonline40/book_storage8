@@ -1,0 +1,96 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/22-quy-luat-bat-bien-trong-marketing_20044.html",
+    "title" : "22 Quy Luật Bất Biến Trong Marketing",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Al Ries",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 9224,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_38713fe58f4fd69dc2f2470096a52142.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_38713fe58f4fd69dc2f2470096a52142.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/22-quy-luat-bat-bien-trong-marketing.sna/Quy-Luat-Bat-Bien-Trong-Kinh-Doanh-P1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1201,
+    "title" : "Quy-Luat-Bat-Bien-Trong-Kinh-Doanh-P1"
+  }, {
+    "href" : "https://archive.org/download/22-quy-luat-bat-bien-trong-marketing.sna/Quy-Luat-Bat-Bien-Trong-Kinh-Doanh-P2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1470,
+    "title" : "Quy-Luat-Bat-Bien-Trong-Kinh-Doanh-P2"
+  }, {
+    "href" : "https://archive.org/download/22-quy-luat-bat-bien-trong-marketing.sna/Quy-Luat-Bat-Bien-Trong-Kinh-Doanh-P3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1646,
+    "title" : "Quy-Luat-Bat-Bien-Trong-Kinh-Doanh-P3"
+  }, {
+    "href" : "https://archive.org/download/22-quy-luat-bat-bien-trong-marketing.sna/Quy-Luat-Bat-Bien-Trong-Kinh-Doanh-P4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1927,
+    "title" : "Quy-Luat-Bat-Bien-Trong-Kinh-Doanh-P4"
+  }, {
+    "href" : "https://archive.org/download/22-quy-luat-bat-bien-trong-marketing.sna/Quy-Luat-Bat-Bien-Trong-Kinh-Doanh-P5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1652,
+    "title" : "Quy-Luat-Bat-Bien-Trong-Kinh-Doanh-P5"
+  }, {
+    "href" : "https://archive.org/download/22-quy-luat-bat-bien-trong-marketing.sna/Quy-Luat-Bat-Bien-Trong-Kinh-Doanh-P6end.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1328,
+    "title" : "Quy-Luat-Bat-Bien-Trong-Kinh-Doanh-P6end"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/22-quy-luat-bat-bien-trong-marketing.sna/Quy-Luat-Bat-Bien-Trong-Kinh-Doanh-P1.mp3",
+    "title" : "Quy-Luat-Bat-Bien-Trong-Kinh-Doanh-P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/22-quy-luat-bat-bien-trong-marketing.sna/Quy-Luat-Bat-Bien-Trong-Kinh-Doanh-P2.mp3",
+    "title" : "Quy-Luat-Bat-Bien-Trong-Kinh-Doanh-P2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/22-quy-luat-bat-bien-trong-marketing.sna/Quy-Luat-Bat-Bien-Trong-Kinh-Doanh-P3.mp3",
+    "title" : "Quy-Luat-Bat-Bien-Trong-Kinh-Doanh-P3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/22-quy-luat-bat-bien-trong-marketing.sna/Quy-Luat-Bat-Bien-Trong-Kinh-Doanh-P4.mp3",
+    "title" : "Quy-Luat-Bat-Bien-Trong-Kinh-Doanh-P4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/22-quy-luat-bat-bien-trong-marketing.sna/Quy-Luat-Bat-Bien-Trong-Kinh-Doanh-P5.mp3",
+    "title" : "Quy-Luat-Bat-Bien-Trong-Kinh-Doanh-P5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/22-quy-luat-bat-bien-trong-marketing.sna/Quy-Luat-Bat-Bien-Trong-Kinh-Doanh-P6end.mp3",
+    "title" : "Quy-Luat-Bat-Bien-Trong-Kinh-Doanh-P6end",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

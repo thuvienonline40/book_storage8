@@ -1,0 +1,126 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/gia-pha-mui-rom-ra_20066.html",
+    "title" : "Gia Phả Mùi Rơm Rạ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thu Trân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 23550,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_faa79872df7693875ef069b409fe6269.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_faa79872df7693875ef069b409fe6269.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/gia-pha-mui-rom-ra.sna/GIA_PHA_MUI_ROM_RA_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1480,
+    "title" : "GIA PHA MUI ROM RA 01"
+  }, {
+    "href" : "https://archive.org/download/gia-pha-mui-rom-ra.sna/GIA_PHA_MUI_ROM_RA_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2778,
+    "title" : "GIA PHA MUI ROM RA 02"
+  }, {
+    "href" : "https://archive.org/download/gia-pha-mui-rom-ra.sna/GIA_PHA_MUI_ROM_RA_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1854,
+    "title" : "GIA PHA MUI ROM RA 03"
+  }, {
+    "href" : "https://archive.org/download/gia-pha-mui-rom-ra.sna/GIA_PHA_MUI_ROM_RA_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1799,
+    "title" : "GIA PHA MUI ROM RA 04"
+  }, {
+    "href" : "https://archive.org/download/gia-pha-mui-rom-ra.sna/GIA_PHA_MUI_ROM_RA_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3321,
+    "title" : "GIA PHA MUI ROM RA 05"
+  }, {
+    "href" : "https://archive.org/download/gia-pha-mui-rom-ra.sna/GIA_PHA_MUI_ROM_RA_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2371,
+    "title" : "GIA PHA MUI ROM RA 06"
+  }, {
+    "href" : "https://archive.org/download/gia-pha-mui-rom-ra.sna/GIA_PHA_MUI_ROM_RA_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2965,
+    "title" : "GIA PHA MUI ROM RA 07"
+  }, {
+    "href" : "https://archive.org/download/gia-pha-mui-rom-ra.sna/GIA_PHA_MUI_ROM_RA_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3501,
+    "title" : "GIA PHA MUI ROM RA 08"
+  }, {
+    "href" : "https://archive.org/download/gia-pha-mui-rom-ra.sna/GIA_PHA_MUI_ROM_RA_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3481,
+    "title" : "GIA PHA MUI ROM RA 09"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/gia-pha-mui-rom-ra.sna/GIA_PHA_MUI_ROM_RA_01.mp3",
+    "title" : "GIA PHA MUI ROM RA 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gia-pha-mui-rom-ra.sna/GIA_PHA_MUI_ROM_RA_02.mp3",
+    "title" : "GIA PHA MUI ROM RA 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gia-pha-mui-rom-ra.sna/GIA_PHA_MUI_ROM_RA_03.mp3",
+    "title" : "GIA PHA MUI ROM RA 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gia-pha-mui-rom-ra.sna/GIA_PHA_MUI_ROM_RA_04.mp3",
+    "title" : "GIA PHA MUI ROM RA 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gia-pha-mui-rom-ra.sna/GIA_PHA_MUI_ROM_RA_05.mp3",
+    "title" : "GIA PHA MUI ROM RA 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gia-pha-mui-rom-ra.sna/GIA_PHA_MUI_ROM_RA_06.mp3",
+    "title" : "GIA PHA MUI ROM RA 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gia-pha-mui-rom-ra.sna/GIA_PHA_MUI_ROM_RA_07.mp3",
+    "title" : "GIA PHA MUI ROM RA 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gia-pha-mui-rom-ra.sna/GIA_PHA_MUI_ROM_RA_08.mp3",
+    "title" : "GIA PHA MUI ROM RA 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gia-pha-mui-rom-ra.sna/GIA_PHA_MUI_ROM_RA_09.mp3",
+    "title" : "GIA PHA MUI ROM RA 09",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

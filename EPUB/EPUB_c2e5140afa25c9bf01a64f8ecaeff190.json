@@ -1,0 +1,186 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/moi-to-vuong-cua-huyen-tran-cong-chua_20108.html",
+    "title" : "Mối Tơ Vương của Huyền Trân Công Chúa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Như Điển",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 69569,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_c2e5140afa25c9bf01a64f8ecaeff190.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_c2e5140afa25c9bf01a64f8ecaeff190.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/moi-to-15/moi-to-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2443,
+    "title" : "Huyền Trân Công Chúa"
+  }, {
+    "href" : "https://archive.org/download/moi-to-15/moi-to-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2983,
+    "title" : "Chương 3"
+  }, {
+    "href" : "https://archive.org/download/moi-to-15/moi-to-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3407,
+    "title" : "Chương 4"
+  }, {
+    "href" : "https://archive.org/download/moi-to-15/moi-to-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8092,
+    "title" : "Chương 4"
+  }, {
+    "href" : "https://archive.org/download/moi-to-15/moi-to-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1420,
+    "title" : "Chương 5"
+  }, {
+    "href" : "https://archive.org/download/moi-to-15/moi-to-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4102,
+    "title" : "Chương 6"
+  }, {
+    "href" : "https://archive.org/download/moi-to-15/moi-to-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2666,
+    "title" : "Chương 7"
+  }, {
+    "href" : "https://archive.org/download/moi-to-15/moi-to-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4827,
+    "title" : "Chương 8"
+  }, {
+    "href" : "https://archive.org/download/moi-to-15/moi-to-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3931,
+    "title" : "Chương 9"
+  }, {
+    "href" : "https://archive.org/download/moi-to-15/moi-to-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4684,
+    "title" : "Chương 10"
+  }, {
+    "href" : "https://archive.org/download/moi-to-15/moi-to-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4644,
+    "title" : "Chương 11"
+  }, {
+    "href" : "https://archive.org/download/moi-to-15/moi-to-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5584,
+    "title" : "Chương 12"
+  }, {
+    "href" : "https://archive.org/download/moi-to-15/moi-to-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5730,
+    "title" : "Chương 13"
+  }, {
+    "href" : "https://archive.org/download/moi-to-15/moi-to-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1872,
+    "title" : "Tạm kết"
+  }, {
+    "href" : "https://archive.org/download/moi-to-15/moi-to-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13184,
+    "title" : "Lời Bạt"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/moi-to-15/moi-to-01.mp3",
+    "title" : "Huyền Trân Công Chúa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/moi-to-15/moi-to-02.mp3",
+    "title" : "Chương 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/moi-to-15/moi-to-03.mp3",
+    "title" : "Chương 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/moi-to-15/moi-to-04.mp3",
+    "title" : "Chương 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/moi-to-15/moi-to-05.mp3",
+    "title" : "Chương 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/moi-to-15/moi-to-06.mp3",
+    "title" : "Chương 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/moi-to-15/moi-to-07.mp3",
+    "title" : "Chương 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/moi-to-15/moi-to-08.mp3",
+    "title" : "Chương 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/moi-to-15/moi-to-09.mp3",
+    "title" : "Chương 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/moi-to-15/moi-to-10.mp3",
+    "title" : "Chương 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/moi-to-15/moi-to-11.mp3",
+    "title" : "Chương 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/moi-to-15/moi-to-12.mp3",
+    "title" : "Chương 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/moi-to-15/moi-to-13.mp3",
+    "title" : "Chương 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/moi-to-15/moi-to-14.mp3",
+    "title" : "Tạm kết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/moi-to-15/moi-to-15.mp3",
+    "title" : "Lời Bạt",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

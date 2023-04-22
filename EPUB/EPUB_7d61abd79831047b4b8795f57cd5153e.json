@@ -1,0 +1,96 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ai-bac-nhip-cau_20054.html",
+    "title" : "Ai Bắc Nhịp Cầu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Thị Bảo Châu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 23153,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_7d61abd79831047b4b8795f57cd5153e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_7d61abd79831047b4b8795f57cd5153e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ai-bat-4/ai-bat-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3503,
+    "title" : "Phần 1"
+  }, {
+    "href" : "https://archive.org/download/ai-bat-4/ai-bat-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3986,
+    "title" : "Phần 2"
+  }, {
+    "href" : "https://archive.org/download/ai-bat-4/ai-bat-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3840,
+    "title" : "Phần 3"
+  }, {
+    "href" : "https://archive.org/download/ai-bat-4/ai-bat-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4725,
+    "title" : "Phần 4"
+  }, {
+    "href" : "https://archive.org/download/ai-bat-4/ai-bat-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4068,
+    "title" : "Phần 5"
+  }, {
+    "href" : "https://archive.org/download/ai-bat-4/ai-bat-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3031,
+    "title" : "Phần 6"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ai-bat-4/ai-bat-1.mp3",
+    "title" : "Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-bat-4/ai-bat-2.mp3",
+    "title" : "Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-bat-4/ai-bat-3.mp3",
+    "title" : "Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-bat-4/ai-bat-4.mp3",
+    "title" : "Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-bat-4/ai-bat-5.mp3",
+    "title" : "Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ai-bat-4/ai-bat-6.mp3",
+    "title" : "Phần 6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

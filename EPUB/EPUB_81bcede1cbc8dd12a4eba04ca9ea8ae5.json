@@ -1,0 +1,166 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nu-hoang-ai-cap_20068.html",
+    "title" : "Nữ Hoàng Ai Cập",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thế Anh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 101606,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_81bcede1cbc8dd12a4eba04ca9ea8ae5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_81bcede1cbc8dd12a4eba04ca9ea8ae5.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nuhoangaicapcleopatra/N%E1%BB%AF%20Ho%C3%A0ng%20Ai%20C%E1%BA%ADp%20Cleopatra%20%231%20-%20Truy%E1%BB%87n%20D%C3%A0i%20Hay%20_%20Tr%C3%B2%20Chuy%E1%BB%87n%20%C4%90%C3%AAm%20Khuya.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7556,
+    "title" : "Truyện Dài Hay | Trò Chuyện Đêm Khuya"
+  }, {
+    "href" : "https://archive.org/download/nuhoangaicapcleopatra/N%E1%BB%AF%20Ho%C3%A0ng%20Ai%20C%E1%BA%ADp%20Cleopatra%20%2310%20-%20Truy%E1%BB%87n%20D%C3%A0i%20Hay%20_%20Tr%C3%B2%20Chuy%E1%BB%87n%20%C4%90%C3%AAm%20Khuya.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8408,
+    "title" : "Truyện Dài Hay | Trò Chuyện Đêm Khuya"
+  }, {
+    "href" : "https://archive.org/download/nuhoangaicapcleopatra/N%E1%BB%AF%20Ho%C3%A0ng%20Ai%20C%E1%BA%ADp%20Cleopatra%20%2311%20-%20Truy%E1%BB%87n%20D%C3%A0i%20Hay%20_%20Tr%C3%B2%20Chuy%E1%BB%87n%20%C4%90%C3%AAm%20Khuya.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7561,
+    "title" : "Truyện Dài Hay | Trò Chuyện Đêm Khuya"
+  }, {
+    "href" : "https://archive.org/download/nuhoangaicapcleopatra/N%E1%BB%AF%20Ho%C3%A0ng%20Ai%20C%E1%BA%ADp%20Cleopatra%20%2312%20-%20Truy%E1%BB%87n%20D%C3%A0i%20Hay%20_%20Tr%C3%B2%20Chuy%E1%BB%87n%20%C4%90%C3%AAm%20Khuya.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6796,
+    "title" : "Truyện Dài Hay | Trò Chuyện Đêm Khuya"
+  }, {
+    "href" : "https://archive.org/download/nuhoangaicapcleopatra/N%E1%BB%AF%20Ho%C3%A0ng%20Ai%20C%E1%BA%ADp%20Cleopatra%20%2313%20End%20-%20Truy%E1%BB%87n%20D%C3%A0i%20Hay%20_%20Tr%C3%B2%20Chuy%E1%BB%87n%20%C4%90%C3%AAm%20Khuya.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6591,
+    "title" : "Truyện Dài Hay | Trò Chuyện Đêm Khuya"
+  }, {
+    "href" : "https://archive.org/download/nuhoangaicapcleopatra/N%E1%BB%AF%20Ho%C3%A0ng%20Ai%20C%E1%BA%ADp%20Cleopatra%20%232%20-%20Truy%E1%BB%87n%20D%C3%A0i%20Hay%20_%20Tr%C3%B2%20Chuy%E1%BB%87n%20%C4%90%C3%AAm%20Khuya.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7894,
+    "title" : "Truyện Dài Hay | Trò Chuyện Đêm Khuya"
+  }, {
+    "href" : "https://archive.org/download/nuhoangaicapcleopatra/N%E1%BB%AF%20Ho%C3%A0ng%20Ai%20C%E1%BA%ADp%20Cleopatra%20%233%20-%20Truy%E1%BB%87n%20D%C3%A0i%20Hay%20_%20Tr%C3%B2%20Chuy%E1%BB%87n%20%C4%90%C3%AAm%20Khuya.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7552,
+    "title" : "Truyện Dài Hay | Trò Chuyện Đêm Khuya"
+  }, {
+    "href" : "https://archive.org/download/nuhoangaicapcleopatra/N%E1%BB%AF%20Ho%C3%A0ng%20Ai%20C%E1%BA%ADp%20Cleopatra%20%234%20-%20Truy%E1%BB%87n%20D%C3%A0i%20Hay%20_%20Tr%C3%B2%20Chuy%E1%BB%87n%20%C4%90%C3%AAm%20Khuya.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8347,
+    "title" : "Truyện Dài Hay | Trò Chuyện Đêm Khuya"
+  }, {
+    "href" : "https://archive.org/download/nuhoangaicapcleopatra/N%E1%BB%AF%20Ho%C3%A0ng%20Ai%20C%E1%BA%ADp%20Cleopatra%20%235%20-%20Truy%E1%BB%87n%20D%C3%A0i%20Hay%20_%20Tr%C3%B2%20Chuy%E1%BB%87n%20%C4%90%C3%AAm%20Khuya.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8267,
+    "title" : "Truyện Dài Hay | Trò Chuyện Đêm Khuya"
+  }, {
+    "href" : "https://archive.org/download/nuhoangaicapcleopatra/N%E1%BB%AF%20Ho%C3%A0ng%20Ai%20C%E1%BA%ADp%20Cleopatra%20%236%20-%20Truy%E1%BB%87n%20D%C3%A0i%20Hay%20_%20Tr%C3%B2%20Chuy%E1%BB%87n%20%C4%90%C3%AAm%20Khuya.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8235,
+    "title" : "Truyện Dài Hay | Trò Chuyện Đêm Khuya"
+  }, {
+    "href" : "https://archive.org/download/nuhoangaicapcleopatra/N%E1%BB%AF%20Ho%C3%A0ng%20Ai%20C%E1%BA%ADp%20Cleopatra%20%237%20-%20Truy%E1%BB%87n%20D%C3%A0i%20Hay%20_%20Tr%C3%B2%20Chuy%E1%BB%87n%20%C4%90%C3%AAm%20Khuya.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8092,
+    "title" : "Truyện Dài Hay | Trò Chuyện Đêm Khuya"
+  }, {
+    "href" : "https://archive.org/download/nuhoangaicapcleopatra/N%E1%BB%AF%20Ho%C3%A0ng%20Ai%20C%E1%BA%ADp%20Cleopatra%20%238%20-%20Truy%E1%BB%87n%20D%C3%A0i%20Hay%20_%20Tr%C3%B2%20Chuy%E1%BB%87n%20%C4%90%C3%AAm%20Khuya.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7890,
+    "title" : "Truyện Dài Hay | Trò Chuyện Đêm Khuya"
+  }, {
+    "href" : "https://archive.org/download/nuhoangaicapcleopatra/N%E1%BB%AF%20Ho%C3%A0ng%20Ai%20C%E1%BA%ADp%20Cleopatra%20%239%20-%20Truy%E1%BB%87n%20D%C3%A0i%20Hay%20_%20Tr%C3%B2%20Chuy%E1%BB%87n%20%C4%90%C3%AAm%20Khuya.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8417,
+    "title" : "Truyện Dài Hay | Trò Chuyện Đêm Khuya"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nuhoangaicapcleopatra/N%E1%BB%AF%20Ho%C3%A0ng%20Ai%20C%E1%BA%ADp%20Cleopatra%20%231%20-%20Truy%E1%BB%87n%20D%C3%A0i%20Hay%20_%20Tr%C3%B2%20Chuy%E1%BB%87n%20%C4%90%C3%AAm%20Khuya.mp3",
+    "title" : "Truyện Dài Hay | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuhoangaicapcleopatra/N%E1%BB%AF%20Ho%C3%A0ng%20Ai%20C%E1%BA%ADp%20Cleopatra%20%2310%20-%20Truy%E1%BB%87n%20D%C3%A0i%20Hay%20_%20Tr%C3%B2%20Chuy%E1%BB%87n%20%C4%90%C3%AAm%20Khuya.mp3",
+    "title" : "Truyện Dài Hay | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuhoangaicapcleopatra/N%E1%BB%AF%20Ho%C3%A0ng%20Ai%20C%E1%BA%ADp%20Cleopatra%20%2311%20-%20Truy%E1%BB%87n%20D%C3%A0i%20Hay%20_%20Tr%C3%B2%20Chuy%E1%BB%87n%20%C4%90%C3%AAm%20Khuya.mp3",
+    "title" : "Truyện Dài Hay | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuhoangaicapcleopatra/N%E1%BB%AF%20Ho%C3%A0ng%20Ai%20C%E1%BA%ADp%20Cleopatra%20%2312%20-%20Truy%E1%BB%87n%20D%C3%A0i%20Hay%20_%20Tr%C3%B2%20Chuy%E1%BB%87n%20%C4%90%C3%AAm%20Khuya.mp3",
+    "title" : "Truyện Dài Hay | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuhoangaicapcleopatra/N%E1%BB%AF%20Ho%C3%A0ng%20Ai%20C%E1%BA%ADp%20Cleopatra%20%2313%20End%20-%20Truy%E1%BB%87n%20D%C3%A0i%20Hay%20_%20Tr%C3%B2%20Chuy%E1%BB%87n%20%C4%90%C3%AAm%20Khuya.mp3",
+    "title" : "Truyện Dài Hay | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuhoangaicapcleopatra/N%E1%BB%AF%20Ho%C3%A0ng%20Ai%20C%E1%BA%ADp%20Cleopatra%20%232%20-%20Truy%E1%BB%87n%20D%C3%A0i%20Hay%20_%20Tr%C3%B2%20Chuy%E1%BB%87n%20%C4%90%C3%AAm%20Khuya.mp3",
+    "title" : "Truyện Dài Hay | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuhoangaicapcleopatra/N%E1%BB%AF%20Ho%C3%A0ng%20Ai%20C%E1%BA%ADp%20Cleopatra%20%233%20-%20Truy%E1%BB%87n%20D%C3%A0i%20Hay%20_%20Tr%C3%B2%20Chuy%E1%BB%87n%20%C4%90%C3%AAm%20Khuya.mp3",
+    "title" : "Truyện Dài Hay | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuhoangaicapcleopatra/N%E1%BB%AF%20Ho%C3%A0ng%20Ai%20C%E1%BA%ADp%20Cleopatra%20%234%20-%20Truy%E1%BB%87n%20D%C3%A0i%20Hay%20_%20Tr%C3%B2%20Chuy%E1%BB%87n%20%C4%90%C3%AAm%20Khuya.mp3",
+    "title" : "Truyện Dài Hay | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuhoangaicapcleopatra/N%E1%BB%AF%20Ho%C3%A0ng%20Ai%20C%E1%BA%ADp%20Cleopatra%20%235%20-%20Truy%E1%BB%87n%20D%C3%A0i%20Hay%20_%20Tr%C3%B2%20Chuy%E1%BB%87n%20%C4%90%C3%AAm%20Khuya.mp3",
+    "title" : "Truyện Dài Hay | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuhoangaicapcleopatra/N%E1%BB%AF%20Ho%C3%A0ng%20Ai%20C%E1%BA%ADp%20Cleopatra%20%236%20-%20Truy%E1%BB%87n%20D%C3%A0i%20Hay%20_%20Tr%C3%B2%20Chuy%E1%BB%87n%20%C4%90%C3%AAm%20Khuya.mp3",
+    "title" : "Truyện Dài Hay | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuhoangaicapcleopatra/N%E1%BB%AF%20Ho%C3%A0ng%20Ai%20C%E1%BA%ADp%20Cleopatra%20%237%20-%20Truy%E1%BB%87n%20D%C3%A0i%20Hay%20_%20Tr%C3%B2%20Chuy%E1%BB%87n%20%C4%90%C3%AAm%20Khuya.mp3",
+    "title" : "Truyện Dài Hay | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuhoangaicapcleopatra/N%E1%BB%AF%20Ho%C3%A0ng%20Ai%20C%E1%BA%ADp%20Cleopatra%20%238%20-%20Truy%E1%BB%87n%20D%C3%A0i%20Hay%20_%20Tr%C3%B2%20Chuy%E1%BB%87n%20%C4%90%C3%AAm%20Khuya.mp3",
+    "title" : "Truyện Dài Hay | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuhoangaicapcleopatra/N%E1%BB%AF%20Ho%C3%A0ng%20Ai%20C%E1%BA%ADp%20Cleopatra%20%239%20-%20Truy%E1%BB%87n%20D%C3%A0i%20Hay%20_%20Tr%C3%B2%20Chuy%E1%BB%87n%20%C4%90%C3%AAm%20Khuya.mp3",
+    "title" : "Truyện Dài Hay | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

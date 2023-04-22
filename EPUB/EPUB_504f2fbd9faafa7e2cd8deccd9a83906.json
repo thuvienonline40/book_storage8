@@ -1,0 +1,46 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mam-song_20103.html",
+    "title" : "Mầm Sống",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tỳ Kheo Pannissara",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 720,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_504f2fbd9faafa7e2cd8deccd9a83906.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_504f2fbd9faafa7e2cd8deccd9a83906.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mam-song/mam-song.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 720,
+    "title" : "Mầm Sống"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mam-song/mam-song.mp3",
+    "title" : "Mầm Sống",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

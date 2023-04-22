@@ -1,0 +1,116 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/noi-voi-tuoi-hai-muoi_20032.html",
+    "title" : "Nói Với Tuổi Hai Mươi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 9748,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/EPUB/EPUB_c97d88f3b159839f73220b678e7acdc6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage8/main/IMAGE/IMAGE_c97d88f3b159839f73220b678e7acdc6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/noi-voi-4/noi-voi-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1009,
+    "title" : "Nói với tuổi 20"
+  }, {
+    "href" : "https://archive.org/download/noi-voi-4/noi-voi-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1210,
+    "title" : "Nói với tuổi 20"
+  }, {
+    "href" : "https://archive.org/download/noi-voi-4/noi-voi-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1604,
+    "title" : "Nói với tuổi 20"
+  }, {
+    "href" : "https://archive.org/download/noi-voi-4/noi-voi-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2365,
+    "title" : "Nói với tuổi 20"
+  }, {
+    "href" : "https://archive.org/download/noi-voi-4/noi-voi-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1020,
+    "title" : "Nói với tuổi 20"
+  }, {
+    "href" : "https://archive.org/download/noi-voi-4/noi-voi-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1360,
+    "title" : "Nói với tuổi 20"
+  }, {
+    "href" : "https://archive.org/download/noi-voi-4/noi-voi-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 738,
+    "title" : "Nói với tuổi 20"
+  }, {
+    "href" : "https://archive.org/download/noi-voi-4/noi-voi-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 442,
+    "title" : "Nói với tuổi 20"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/noi-voi-4/noi-voi-1.mp3",
+    "title" : "Nói với tuổi 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-voi-4/noi-voi-2.mp3",
+    "title" : "Nói với tuổi 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-voi-4/noi-voi-3.mp3",
+    "title" : "Nói với tuổi 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-voi-4/noi-voi-4.mp3",
+    "title" : "Nói với tuổi 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-voi-4/noi-voi-5.mp3",
+    "title" : "Nói với tuổi 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-voi-4/noi-voi-6.mp3",
+    "title" : "Nói với tuổi 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-voi-4/noi-voi-7.mp3",
+    "title" : "Nói với tuổi 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/noi-voi-4/noi-voi-8.mp3",
+    "title" : "Nói với tuổi 20",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
