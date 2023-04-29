@@ -10,7 +10,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-04-28",
+    "published" : "2023-04-30",
     "duration" : 0,
     "abridged" : false,
     "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
@@ -31,1405 +31,3205 @@
     "type" : "application/divina+json"
   } ],
   "readingOrder" : [ {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/1.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/1.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/1.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/2.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/2.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/2.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/3.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/3.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/3.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/4.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/4.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/4.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/5.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/5.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/5.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/6.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/6.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/6.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/7.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/7.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/7.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/8.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/8.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/8.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/9.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/9.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/9.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/10.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/10.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/10.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/11.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/11.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/11.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/12.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/12.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/12.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/13.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/13.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/13.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/14.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/14.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/14.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/15.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/15.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/15.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/16.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/16.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/16.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/17.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/17.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/17.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/18.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/18.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/18.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/19.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/19.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/19.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/20.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/20.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/20.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/21.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/21.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/21.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/22.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/22.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/22.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/23.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/23.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/23.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/24.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/24.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/24.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/25.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/25.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/25.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/26.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/26.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/26.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/27.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/27.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/27.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/28.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/28.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/28.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/29.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/29.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/29.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/30.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/30.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/30.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/31.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/31.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/31.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/32.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/32.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/32.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/33.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/33.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/33.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/34.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/34.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/34.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/35.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/35.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/35.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/36.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/36.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/36.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/37.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/37.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/37.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/38.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/38.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/38.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/39.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/39.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/39.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/40.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/40.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/40.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/41.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/41.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/41.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/42.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/42.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/42.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/43.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/43.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/43.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/44.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/44.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/44.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/45.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/45.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/45.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/46.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/46.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/46.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/47.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/47.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/47.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/48.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/48.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/48.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/49.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/49.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/49.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/50.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/50.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/50.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/51.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/51.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/51.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/52.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/52.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/52.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/53.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/53.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/53.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/54.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/54.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/54.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/55.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/55.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/55.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/56.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/56.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/56.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/57.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/57.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/57.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/58.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/58.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/58.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/59.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/59.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/59.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/60.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/60.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/60.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/61.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/61.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/61.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/62.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/62.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/62.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/63.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/63.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/63.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/64.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/64.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/64.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/65.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/65.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/65.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/66.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/66.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/66.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/67.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/67.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/67.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/68.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/68.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/68.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/69.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/69.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/69.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/70.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/70.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/70.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/71.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/71.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/71.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/72.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/72.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/72.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/73.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/73.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/73.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/74.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/74.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/74.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/75.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/75.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/75.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/76.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/76.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/76.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/77.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/77.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/77.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/78.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/78.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/78.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/79.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/79.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/79.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/80.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/80.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/80.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/81.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/81.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/81.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/82.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/82.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/82.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/83.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/83.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/83.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/84.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/84.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/84.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/85.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/85.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/85.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/86.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/86.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/86.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/87.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/87.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/87.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/88.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/88.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/88.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/89.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/89.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/89.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/90.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/90.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/90.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/91.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/91.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/91.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/92.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/92.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/92.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/93.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/93.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/93.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/94.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/94.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/94.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/95.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/95.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/95.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/96.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/96.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/96.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/97.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/97.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/97.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/98.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/98.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/98.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/99.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/99.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/99.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/100.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/100.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/100.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/101.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/101.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/101.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/102.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/102.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/102.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/103.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/103.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/103.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/104.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/104.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/104.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/105.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/105.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/105.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/106.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/106.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/106.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/107.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/107.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/107.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/108.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/108.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/108.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/109.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/109.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/109.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/110.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/110.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/110.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/111.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/111.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/111.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/112.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/112.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/112.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/113.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/113.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/113.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/114.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/114.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/114.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/115.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/115.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/115.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/116.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/116.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/116.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/117.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/117.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/117.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/118.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/118.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/118.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/119.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/119.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/119.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/120.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/120.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/120.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/121.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/121.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/121.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/122.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/122.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/122.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/123.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/123.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/123.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/124.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/124.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/124.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/125.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/125.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/125.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/126.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/126.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/126.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/127.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/127.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/127.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/128.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/128.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/128.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/129.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/129.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/129.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/130.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/130.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/130.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/131.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/131.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/131.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/132.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/132.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/132.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/133.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/133.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/133.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/134.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/134.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/134.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/135.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/135.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/135.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/136.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/136.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/136.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/137.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/137.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/137.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/138.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/138.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/138.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/139.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/139.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/139.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/140.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/140.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/140.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/141.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/141.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/141.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/142.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/142.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/142.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/143.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/143.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/143.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/144.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/144.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/144.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/145.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/145.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/145.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/146.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/146.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/146.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/147.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/147.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/147.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/148.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/148.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/148.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/149.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/149.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/149.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/150.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/150.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/150.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/151.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/151.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/151.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/152.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/152.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/152.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/153.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/153.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/153.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/154.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/154.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/154.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/155.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/155.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/155.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/156.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/156.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/156.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/157.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/157.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/157.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/158.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/158.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/158.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/159.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/159.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/159.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/160.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/160.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/160.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/161.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/161.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/161.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/162.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/162.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/162.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/163.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/163.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/163.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/164.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/164.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/164.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/165.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/165.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/165.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/166.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/166.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/166.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/167.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/167.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/167.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/168.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/168.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/168.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/169.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/169.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/169.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/170.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/170.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/170.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/171.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/171.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/171.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/172.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/172.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/172.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/173.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/173.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/173.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/174.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/174.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/174.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/175.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/175.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/175.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/176.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/176.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/176.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/177.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/177.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/177.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/178.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/178.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/178.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/179.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/179.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/179.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/180.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/180.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/180.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/181.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/181.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/181.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/182.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/182.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/182.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/183.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/183.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/183.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/184.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/184.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/184.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/185.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/185.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/185.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/186.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/186.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/186.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/187.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/187.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/187.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/188.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/188.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/188.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/189.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/189.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/189.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/190.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/190.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/190.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/191.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/191.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/191.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/192.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/192.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/192.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/193.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/193.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/193.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/194.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/194.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/194.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/195.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/195.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/195.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/196.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/196.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/196.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/197.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/197.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/197.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/198.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/198.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/198.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/199.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/199.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/199.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   }, {
-    "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/200.jpg",
+    "href" : "https://img.abctruyen.xyz/uploads/18004/chuong-43/200.jpg",
     "type" : "image/jpeg",
     "bitrate" : 0,
     "duration" : 0,
     "title" : null,
-    "properties" : null
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i2.wp.com/img.abctruyen.xyz/uploads/18004/chuong-43/200.jpg",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
   } ],
   "toc" : null,
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
