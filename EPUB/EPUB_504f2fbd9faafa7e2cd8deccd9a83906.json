@@ -13,9 +13,14 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-04-22",
+    "published" : "2023-08-17",
     "duration" : 720,
     "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
     "@type" : "http://schema.org/Audiobook",
     "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
   },
@@ -31,15 +36,41 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/mam-song/mam-song.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_504f2fbd9faafa7e2cd8deccd9a83906_f32cc0e37306ff3f6ba17b5396c85409_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 720,
-    "title" : "Mầm Sống"
+    "duration" : 0,
+    "title" : "Mầm Sống (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_504f2fbd9faafa7e2cd8deccd9a83906_f32cc0e37306ff3f6ba17b5396c85409_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Mầm Sống (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_504f2fbd9faafa7e2cd8deccd9a83906_f32cc0e37306ff3f6ba17b5396c85409_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Mầm Sống (3)",
+    "properties" : null,
+    "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/mam-song/mam-song.mp3",
-    "title" : "Mầm Sống",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_504f2fbd9faafa7e2cd8deccd9a83906_f32cc0e37306ff3f6ba17b5396c85409_1.mp3",
+    "title" : "Mầm Sống (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_504f2fbd9faafa7e2cd8deccd9a83906_f32cc0e37306ff3f6ba17b5396c85409_2.mp3",
+    "title" : "Mầm Sống (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_504f2fbd9faafa7e2cd8deccd9a83906_f32cc0e37306ff3f6ba17b5396c85409_3.mp3",
+    "title" : "Mầm Sống (3)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
