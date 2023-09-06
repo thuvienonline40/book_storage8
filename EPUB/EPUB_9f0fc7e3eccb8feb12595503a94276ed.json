@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-22",
+    "published" : "2023-09-06",
     "duration" : 17012,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,101 +36,41 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_9f0fc7e3eccb8feb12595503a94276ed_1dfbf6fbb18712351ee5ef491567b681_1.mp3",
+    "href" : "https://archive.org/download/thung-lung-3/thung-lung-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thung-lung-1 (1)",
+    "duration" : 5337,
+    "title" : "thung-lung-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_9f0fc7e3eccb8feb12595503a94276ed_1dfbf6fbb18712351ee5ef491567b681_2.mp3",
+    "href" : "https://archive.org/download/thung-lung-3/thung-lung-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thung-lung-1 (2)",
+    "duration" : 5611,
+    "title" : "thung-lung-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_9f0fc7e3eccb8feb12595503a94276ed_1dfbf6fbb18712351ee5ef491567b681_3.mp3",
+    "href" : "https://archive.org/download/thung-lung-3/thung-lung-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thung-lung-1 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_9f0fc7e3eccb8feb12595503a94276ed_07e9be9abd84f46ef7d2bdd90cde0cb0_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thung-lung-2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_9f0fc7e3eccb8feb12595503a94276ed_07e9be9abd84f46ef7d2bdd90cde0cb0_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thung-lung-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_9f0fc7e3eccb8feb12595503a94276ed_07e9be9abd84f46ef7d2bdd90cde0cb0_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thung-lung-2 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_9f0fc7e3eccb8feb12595503a94276ed_9c8560a9268f14b77c09ce10a43de71c_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thung-lung-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_9f0fc7e3eccb8feb12595503a94276ed_9c8560a9268f14b77c09ce10a43de71c_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thung-lung-3 (2)",
+    "duration" : 6064,
+    "title" : "thung-lung-3",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_9f0fc7e3eccb8feb12595503a94276ed_1dfbf6fbb18712351ee5ef491567b681_1.mp3",
-    "title" : "thung-lung-1 (1)",
+    "href" : "https://archive.org/download/thung-lung-3/thung-lung-1.mp3",
+    "title" : "thung-lung-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_9f0fc7e3eccb8feb12595503a94276ed_1dfbf6fbb18712351ee5ef491567b681_2.mp3",
-    "title" : "thung-lung-1 (2)",
+    "href" : "https://archive.org/download/thung-lung-3/thung-lung-2.mp3",
+    "title" : "thung-lung-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_9f0fc7e3eccb8feb12595503a94276ed_1dfbf6fbb18712351ee5ef491567b681_3.mp3",
-    "title" : "thung-lung-1 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_9f0fc7e3eccb8feb12595503a94276ed_07e9be9abd84f46ef7d2bdd90cde0cb0_1.mp3",
-    "title" : "thung-lung-2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_9f0fc7e3eccb8feb12595503a94276ed_07e9be9abd84f46ef7d2bdd90cde0cb0_2.mp3",
-    "title" : "thung-lung-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_9f0fc7e3eccb8feb12595503a94276ed_07e9be9abd84f46ef7d2bdd90cde0cb0_3.mp3",
-    "title" : "thung-lung-2 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_9f0fc7e3eccb8feb12595503a94276ed_9c8560a9268f14b77c09ce10a43de71c_1.mp3",
-    "title" : "thung-lung-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage8/main/AUDIO/AUDIO_9f0fc7e3eccb8feb12595503a94276ed_9c8560a9268f14b77c09ce10a43de71c_2.mp3",
-    "title" : "thung-lung-3 (2)",
+    "href" : "https://archive.org/download/thung-lung-3/thung-lung-3.mp3",
+    "title" : "thung-lung-3",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
